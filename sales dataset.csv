@@ -1,0 +1,601 @@
+OrderID,InvoiceNo,OrderDate,Year,Month,MonthName,WeekOfYear,Weekday,CustomerID,CustomerName,Region,Country,ProductID,ProductName,Category,SubCategory,Quantity,UnitPrice,Discount,Sales,Cost,ShippingCost,Profit,OrderPriority,Channel,ProfitMarginPct,GrossMargin
+ORD10001,INV20001,2023-08-17,2023,8,Aug,33,Thursday,C1754,Customer 53,North,Bhutan,P328,Paper Model 9,Office Supplies,Paper,4,822.17,0.2,2630.94,1866.08,87.96,676.9,Low,Online,0.2573,764.86
+ORD10002,INV20002,2023-03-03,2023,3,Mar,9,Friday,C1574,Customer 102,North,India,P716,Storage Model 2,Furniture,Storage,2,4851.05,0.2,7761.68,7759.09,29.11,-26.52,Medium,Online,-0.0034,2.59
+ORD10003,INV20003,2024-07-23,2024,7,Jul,30,Tuesday,C1220,Customer 391,North,India,P384,Prescription Model 10,Pharmaceuticals,Prescription,1,1556.0,0.1,1400.4,1100.76,48.88,250.76,Low,Online,0.1791,299.64
+ORD10004,INV20004,2025-01-05,2025,1,Jan,1,Sunday,C1549,Customer 64,East,Myanmar,P847,Paper Model 30,Office Supplies,Paper,2,1496.12,0.15,2543.4,1974.6,51.05,517.75,Low,Online,0.2036,568.8
+ORD10005,INV20005,2025-01-10,2025,1,Jan,2,Friday,C1791,Customer 149,Central,India,P777,Phones Model 15,Electronics,Phones,3,279.93,0.0,839.79,614.95,25.35,199.49,High,Distributor,0.2375,224.84
+ORD10006,INV20006,2025-02-17,2025,2,Feb,8,Monday,C1214,Customer 344,East,Bangladesh,P479,Paper Model 23,Office Supplies,Paper,3,1557.84,0.1,4206.17,2707.38,71.58,1427.21,Medium,Retail,0.3393,1498.79
+ORD10007,INV20007,2023-05-27,2023,5,May,21,Saturday,C1276,Customer 328,Central,India,P573,Chairs Model 25,Furniture,Chairs,2,220.22,0.2,352.35,362.39,33.29,-43.33,Low,Online,-0.123,-10.04
+ORD10008,INV20008,2023-04-25,2023,4,Apr,17,Tuesday,C1216,Customer 291,South,India,P374,Writing Model 5,Office Supplies,Writing,4,4849.44,0.1,17457.98,15179.52,94.55,2183.91,Low,Online,0.1251,2278.46
+ORD10009,INV20009,2025-07-28,2025,7,Jul,31,Monday,C1551,Customer 135,South,Sri Lanka,P862,Chairs Model 36,Furniture,Chairs,3,1020.12,0.2,2448.29,1724.72,39.28,684.29,Medium,Retail,0.2795,723.57
+ORD10010,INV20010,2025-01-11,2025,1,Jan,2,Saturday,C1881,Customer 57,South,India,P873,OTC Model 4,Pharmaceuticals,OTC,3,1440.63,0.05,4105.8,3080.68,22.68,1002.44,Medium,Retail,0.2442,1025.12
+ORD10011,INV20011,2025-05-14,2025,5,May,20,Wednesday,C1541,Customer 129,Central,India,P710,Prescription Model 30,Pharmaceuticals,Prescription,3,1033.64,0.2,2480.74,1710.64,83.39,686.71,High,Online,0.2768,770.1
+ORD10012,INV20012,2023-08-23,2023,8,Aug,34,Wednesday,C1161,Customer 233,Central,India,P400,Paper Model 28,Office Supplies,Paper,3,1824.41,0.0,5473.23,3200.53,87.68,2185.02,Critical,Distributor,0.3992,2272.7
+ORD10013,INV20013,2024-06-23,2024,6,Jun,25,Sunday,C1519,Customer 312,Central,India,P405,Accessories Model 41,Electronics,Accessories,2,1589.36,0.05,3019.78,2058.4,75.66,885.72,Low,Retail,0.2933,961.38
+ORD10014,INV20014,2023-01-02,2023,1,Jan,1,Monday,C1899,Customer 158,Central,India,P214,OTC Model 24,Pharmaceuticals,OTC,3,3580.56,0.05,10204.6,8359.56,60.51,1784.53,Low,Distributor,0.1749,1845.04
+ORD10015,INV20015,2023-06-11,2023,6,Jun,23,Sunday,C1784,Customer 65,North,Bhutan,P878,OTC Model 35,Pharmaceuticals,OTC,4,584.06,0.05,2219.43,1306.96,67.28,845.19,Medium,Distributor,0.3808,912.47
+ORD10016,INV20016,2023-12-05,2023,12,Dec,49,Tuesday,C1747,Customer 354,East,Myanmar,P652,OTC Model 49,Pharmaceuticals,OTC,3,2081.4,0.05,5931.99,4849.65,30.59,1051.75,Medium,Online,0.1773,1082.34
+ORD10017,INV20017,2025-02-03,2025,2,Feb,6,Monday,C1065,Customer 174,West,Oman,P353,OTC Model 15,Pharmaceuticals,OTC,1,848.05,0.0,848.05,702.96,82.73,62.36,Medium,Online,0.0735,145.09
+ORD10018,INV20018,2024-03-27,2024,3,Mar,13,Wednesday,C1880,Customer 170,North,India,P169,Phones Model 3,Electronics,Phones,5,4046.83,0.0,20234.15,16568.28,38.62,3627.25,Medium,Online,0.1793,3665.87
+ORD10019,INV20019,2025-09-21,2025,9,Sep,38,Sunday,C1484,Customer 125,South,Maldives,P684,Storage Model 37,Furniture,Storage,1,2164.18,0.15,1839.55,1721.4,87.47,30.68,High,Online,0.0167,118.15
+ORD10020,INV20020,2023-07-18,2023,7,Jul,29,Tuesday,C1055,Customer 345,West,UAE,P578,Prescription Model 47,Pharmaceuticals,Prescription,1,2578.2,0.0,2578.2,1740.86,29.99,807.35,Low,Retail,0.3131,837.34
+ORD10021,INV20021,2023-08-12,2023,8,Aug,32,Saturday,C1432,Customer 94,South,India,P559,Storage Model 9,Furniture,Storage,1,4717.4,0.1,4245.66,3051.97,56.69,1137.0,Medium,Distributor,0.2678,1193.69
+ORD10022,INV20022,2023-06-04,2023,6,Jun,22,Sunday,C1856,Customer 8,West,Oman,P767,Phones Model 35,Electronics,Phones,5,1539.35,0.0,7696.75,4890.92,13.32,2792.51,High,Retail,0.3628,2805.83
+ORD10023,INV20023,2023-12-07,2023,12,Dec,49,Thursday,C1924,Customer 31,West,UAE,P985,OTC Model 26,Pharmaceuticals,OTC,2,1429.3,0.05,2715.67,2351.14,31.56,332.97,Low,Distributor,0.1226,364.53
+ORD10024,INV20024,2024-06-27,2024,6,Jun,26,Thursday,C1677,Customer 368,West,UAE,P848,Supplement Model 36,Pharmaceuticals,Supplement,3,3377.07,0.15,8611.53,7887.0,31.39,693.14,Low,Online,0.0805,724.53
+ORD10025,INV20025,2023-04-30,2023,4,Apr,17,Sunday,C1488,Customer 258,Central,India,P151,Paper Model 38,Office Supplies,Paper,5,4184.75,0.2,16739.0,13521.64,26.79,3190.57,Low,Distributor,0.1906,3217.36
+ORD10026,INV20026,2023-06-14,2023,6,Jun,24,Wednesday,C1413,Customer 62,South,India,P982,Accessories Model 16,Electronics,Accessories,1,2974.92,0.2,2379.94,2240.92,11.49,127.53,Low,Retail,0.0536,139.02
+ORD10027,INV20027,2023-06-17,2023,6,Jun,24,Saturday,C1733,Customer 161,West,Oman,P309,Writing Model 43,Office Supplies,Writing,3,3470.14,0.05,9889.9,6933.55,94.31,2862.04,Low,Online,0.2894,2956.35
+ORD10028,INV20028,2024-09-06,2024,9,Sep,36,Friday,C1576,Customer 52,West,UAE,P569,Phones Model 40,Electronics,Phones,1,611.69,0.0,611.69,506.12,88.96,16.61,Medium,Retail,0.0272,105.57
+ORD10029,INV20029,2023-09-29,2023,9,Sep,39,Friday,C1448,Customer 279,East,India,P391,Tables Model 11,Furniture,Tables,4,1247.17,0.1,4489.81,2883.11,90.75,1515.95,Medium,Distributor,0.3376,1606.7
+ORD10030,INV20030,2023-01-17,2023,1,Jan,3,Tuesday,C1911,Customer 55,Central,India,P370,Phones Model 8,Electronics,Phones,4,4490.7,0.2,14370.24,14659.91,80.19,-369.86,Low,Online,-0.0257,-289.67
+ORD10031,INV20031,2024-03-07,2024,3,Mar,10,Thursday,C1927,Customer 27,East,India,P600,Binders Model 17,Office Supplies,Binders,2,4497.84,0.0,8995.68,6584.2,10.83,2400.65,Medium,Retail,0.2669,2411.48
+ORD10032,INV20032,2023-04-01,2023,4,Apr,13,Saturday,C1759,Customer 227,North,Nepal,P368,Storage Model 11,Furniture,Storage,2,846.0,0.2,1353.6,1209.14,72.27,72.19,Medium,Retail,0.0533,144.46
+ORD10033,INV20033,2023-08-18,2023,8,Aug,33,Friday,C1596,Customer 283,North,Bhutan,P136,Storage Model 24,Furniture,Storage,3,1660.73,0.05,4733.08,3855.95,68.47,808.66,Medium,Online,0.1709,877.13
+ORD10034,INV20034,2025-01-16,2025,1,Jan,3,Thursday,C1105,Customer 182,North,Nepal,P355,Storage Model 43,Furniture,Storage,3,1870.19,0.2,4488.46,3532.19,31.96,924.31,High,Online,0.2059,956.27
+ORD10035,INV20035,2023-11-13,2023,11,Nov,46,Monday,C1754,Customer 171,South,India,P125,Tables Model 12,Furniture,Tables,6,2487.96,0.15,12688.6,9084.63,75.02,3528.95,High,Distributor,0.2781,3603.97
+ORD10036,INV20036,2024-05-23,2024,5,May,21,Thursday,C1879,Customer 241,East,India,P993,Laptops Model 3,Electronics,Laptops,1,3245.09,0.05,3082.84,1957.22,94.64,1030.98,Low,Distributor,0.3344,1125.62
+ORD10037,INV20037,2024-12-17,2024,12,Dec,51,Tuesday,C1408,Customer 169,East,India,P775,Chairs Model 13,Furniture,Chairs,3,4645.18,0.1,12541.99,9454.64,97.0,2990.35,High,Distributor,0.2384,3087.35
+ORD10038,INV20038,2024-07-25,2024,7,Jul,30,Thursday,C1339,Customer 15,East,Myanmar,P963,Supplement Model 35,Pharmaceuticals,Supplement,5,888.99,0.0,4444.95,3187.21,94.25,1163.49,High,Online,0.2618,1257.74
+ORD10039,INV20039,2024-06-27,2024,6,Jun,26,Thursday,C1446,Customer 311,North,India,P846,Prescription Model 21,Pharmaceuticals,Prescription,2,3094.29,0.2,4950.86,5241.83,22.61,-313.58,Low,Distributor,-0.0633,-290.97
+ORD10040,INV20040,2024-01-25,2024,1,Jan,4,Thursday,C1703,Customer 369,East,India,P632,OTC Model 35,Pharmaceuticals,OTC,6,4056.34,0.05,23121.14,19300.89,88.04,3732.21,Low,Online,0.1614,3820.25
+ORD10041,INV20041,2024-11-07,2024,11,Nov,45,Thursday,C1316,Customer 342,Central,India,P407,Accessories Model 33,Electronics,Accessories,8,1909.14,0.15,12982.15,8830.84,62.05,4089.26,Low,Retail,0.315,4151.31
+ORD10042,INV20042,2023-09-18,2023,9,Sep,38,Monday,C1630,Customer 292,South,Sri Lanka,P866,Supplement Model 12,Pharmaceuticals,Supplement,1,2354.71,0.1,2119.24,1678.42,35.79,405.03,Medium,Retail,0.1911,440.82
+ORD10043,INV20043,2024-09-14,2024,9,Sep,37,Saturday,C1329,Customer 239,East,India,P721,Supplement Model 42,Pharmaceuticals,Supplement,1,234.87,0.15,199.64,187.14,42.42,-29.92,Medium,Online,-0.1499,12.5
+ORD10044,INV20044,2025-08-27,2025,8,Aug,35,Wednesday,C1648,Customer 318,South,Maldives,P627,Laptops Model 43,Electronics,Laptops,3,3133.31,0.1,8459.94,5410.64,14.65,3034.65,Low,Distributor,0.3587,3049.3
+ORD10045,INV20045,2024-04-26,2024,4,Apr,17,Friday,C1250,Customer 244,East,India,P125,Chairs Model 3,Furniture,Chairs,6,3986.17,0.2,19133.62,15097.61,49.51,3986.5,High,Online,0.2084,4036.01
+ORD10046,INV20046,2025-04-28,2025,4,Apr,18,Monday,C1151,Customer 336,Central,India,P509,Prescription Model 16,Pharmaceuticals,Prescription,1,4815.11,0.0,4815.11,3855.91,72.64,886.56,High,Distributor,0.1841,959.2
+ORD10047,INV20047,2023-08-07,2023,8,Aug,32,Monday,C1051,Customer 286,West,India,P630,Storage Model 30,Furniture,Storage,2,1288.7,0.05,2448.53,1842.24,74.31,531.98,High,Online,0.2173,606.29
+ORD10048,INV20048,2023-10-01,2023,10,Oct,39,Sunday,C1913,Customer 259,West,Oman,P727,Writing Model 47,Office Supplies,Writing,5,2127.02,0.15,9039.84,6639.7,42.04,2358.1,High,Retail,0.2609,2400.14
+ORD10049,INV20049,2023-11-22,2023,11,Nov,47,Wednesday,C1283,Customer 393,West,UAE,P960,Paper Model 41,Office Supplies,Paper,1,624.56,0.2,499.65,352.13,13.67,133.85,Medium,Online,0.2679,147.52
+ORD10050,INV20050,2025-06-19,2025,6,Jun,25,Thursday,C1327,Customer 277,North,Bhutan,P378,Paper Model 22,Office Supplies,Paper,3,2483.5,0.0,7450.5,5156.06,25.59,2268.85,Low,Online,0.3045,2294.44
+ORD10051,INV20051,2023-11-09,2023,11,Nov,45,Thursday,C1477,Customer 213,South,India,P438,Prescription Model 35,Pharmaceuticals,Prescription,4,1904.33,0.0,7617.32,5619.74,55.28,1942.3,Low,Online,0.255,1997.58
+ORD10052,INV20052,2023-02-10,2023,2,Feb,6,Friday,C1771,Customer 200,Central,India,P460,OTC Model 20,Pharmaceuticals,OTC,3,3229.98,0.15,8236.45,5406.53,62.72,2767.2,Medium,Retail,0.336,2829.92
+ORD10053,INV20053,2024-03-27,2024,3,Mar,13,Wednesday,C1398,Customer 173,West,India,P597,Writing Model 2,Office Supplies,Writing,5,4710.25,0.15,20018.56,15681.15,96.51,4240.9,Medium,Retail,0.2118,4337.41
+ORD10054,INV20054,2023-09-19,2023,9,Sep,38,Tuesday,C1027,Customer 43,Central,India,P677,Supplement Model 43,Pharmaceuticals,Supplement,2,548.85,0.15,933.04,609.74,18.5,304.8,Low,Online,0.3267,323.3
+ORD10055,INV20055,2023-04-13,2023,4,Apr,15,Thursday,C1345,Customer 390,East,Bangladesh,P565,Paper Model 21,Office Supplies,Paper,1,1628.93,0.15,1384.59,1308.78,12.09,63.72,Low,Distributor,0.046,75.81
+ORD10056,INV20056,2025-05-13,2025,5,May,20,Tuesday,C1053,Customer 180,East,India,P867,OTC Model 35,Pharmaceuticals,OTC,2,3498.85,0.05,6647.81,5169.08,88.97,1389.76,Medium,Retail,0.2091,1478.73
+ORD10057,INV20057,2023-03-24,2023,3,Mar,12,Friday,C1244,Customer 65,North,India,P736,Chairs Model 10,Furniture,Chairs,3,3765.54,0.15,9602.13,8947.49,99.15,555.49,Medium,Retail,0.0579,654.64
+ORD10058,INV20058,2024-03-22,2024,3,Mar,12,Friday,C1621,Customer 383,West,Oman,P271,Writing Model 39,Office Supplies,Writing,3,4657.25,0.0,13971.75,11282.52,48.61,2640.62,High,Online,0.189,2689.23
+ORD10059,INV20059,2024-09-29,2024,9,Sep,39,Sunday,C1929,Customer 193,North,Bhutan,P689,Laptops Model 44,Electronics,Laptops,4,4140.96,0.15,14079.26,10700.49,90.6,3288.17,High,Online,0.2335,3378.77
+ORD10060,INV20060,2024-05-12,2024,5,May,19,Sunday,C1815,Customer 290,North,Bhutan,P714,Binders Model 8,Office Supplies,Binders,1,4531.64,0.0,4531.64,2616.51,38.74,1876.39,Low,Online,0.4141,1915.13
+ORD10061,INV20061,2025-01-28,2025,1,Jan,5,Tuesday,C1842,Customer 251,North,Bhutan,P969,Paper Model 27,Office Supplies,Paper,5,1676.89,0.0,8384.45,6303.06,77.71,2003.68,Medium,Online,0.239,2081.39
+ORD10062,INV20062,2025-07-30,2025,7,Jul,31,Wednesday,C1276,Customer 316,South,Sri Lanka,P634,Storage Model 42,Furniture,Storage,3,334.92,0.2,803.81,718.26,49.74,35.81,High,Online,0.0446,85.55
+ORD10063,INV20063,2024-07-03,2024,7,Jul,27,Wednesday,C1768,Customer 238,East,India,P561,Laptops Model 16,Electronics,Laptops,2,757.81,0.2,1212.5,1179.84,65.64,-32.98,Medium,Online,-0.0272,32.66
+ORD10064,INV20064,2023-02-28,2023,2,Feb,9,Tuesday,C1816,Customer 133,West,UAE,P317,Tables Model 23,Furniture,Tables,1,3519.8,0.1,3167.82,2012.72,83.97,1071.13,Low,Retail,0.3381,1155.1
+ORD10065,INV20065,2024-07-19,2024,7,Jul,29,Friday,C1416,Customer 251,Central,India,P347,Chairs Model 47,Furniture,Chairs,2,4933.87,0.2,7894.19,6535.22,43.36,1315.61,High,Retail,0.1667,1358.97
+ORD10066,INV20066,2025-10-02,2025,10,Oct,40,Thursday,C1708,Customer 125,West,India,P326,Laptops Model 26,Electronics,Laptops,5,3896.88,0.1,17535.96,13980.47,48.18,3507.31,Medium,Online,0.2,3555.49
+ORD10067,INV20067,2024-12-05,2024,12,Dec,49,Thursday,C1277,Customer 157,West,Oman,P819,Writing Model 30,Office Supplies,Writing,2,106.2,0.1,191.16,146.68,15.07,29.41,Low,Retail,0.1539,44.48
+ORD10068,INV20068,2024-10-08,2024,10,Oct,41,Tuesday,C1495,Customer 142,North,Bhutan,P321,Chairs Model 48,Furniture,Chairs,1,3263.59,0.2,2610.87,2525.41,62.5,22.96,Critical,Retail,0.0088,85.46
+ORD10069,INV20069,2024-08-02,2024,8,Aug,31,Friday,C1309,Customer 8,North,India,P469,Paper Model 12,Office Supplies,Paper,4,4817.95,0.2,15417.44,10669.76,97.29,4650.39,Low,Online,0.3016,4747.68
+ORD10070,INV20070,2023-04-22,2023,4,Apr,16,Saturday,C1502,Customer 53,Central,India,P989,Storage Model 49,Furniture,Storage,1,4461.16,0.0,4461.16,3159.89,99.37,1201.9,Medium,Online,0.2694,1301.27
+ORD10071,INV20071,2025-06-21,2025,6,Jun,25,Saturday,C1116,Customer 34,East,India,P982,Laptops Model 31,Electronics,Laptops,1,4848.05,0.15,4120.84,3427.23,66.65,626.96,Medium,Retail,0.1521,693.61
+ORD10072,INV20072,2023-04-20,2023,4,Apr,16,Thursday,C1571,Customer 392,South,India,P354,Paper Model 8,Office Supplies,Paper,5,1440.77,0.15,6123.27,6016.1,90.12,17.05,Medium,Retail,0.0028,107.17
+ORD10073,INV20073,2024-04-07,2024,4,Apr,14,Sunday,C1439,Customer 157,Central,India,P404,Prescription Model 38,Pharmaceuticals,Prescription,3,2345.31,0.2,5628.74,4615.61,62.53,950.6,Medium,Retail,0.1689,1013.13
+ORD10074,INV20074,2023-07-23,2023,7,Jul,29,Sunday,C1160,Customer 123,South,Maldives,P776,Tables Model 6,Furniture,Tables,4,1582.16,0.05,6012.21,5025.82,71.63,914.76,Medium,Online,0.1522,986.39
+ORD10075,INV20075,2025-04-16,2025,4,Apr,16,Wednesday,C1295,Customer 362,West,Oman,P133,Prescription Model 15,Pharmaceuticals,Prescription,6,4667.01,0.1,25201.85,22676.6,14.07,2511.18,Medium,Online,0.0996,2525.25
+ORD10076,INV20076,2024-04-23,2024,4,Apr,17,Tuesday,C1230,Customer 332,East,Myanmar,P217,Tables Model 35,Furniture,Tables,1,1913.49,0.05,1817.82,1517.72,98.85,201.25,High,Retail,0.1107,300.1
+ORD10077,INV20077,2023-05-27,2023,5,May,21,Saturday,C1943,Customer 148,North,India,P866,Binders Model 37,Office Supplies,Binders,2,4851.08,0.15,8246.84,7787.3,85.45,374.09,Low,Retail,0.0454,459.54
+ORD10078,INV20078,2025-04-04,2025,4,Apr,14,Friday,C1040,Customer 222,East,Myanmar,P182,Prescription Model 39,Pharmaceuticals,Prescription,3,4330.38,0.1,11692.03,10313.28,99.97,1278.78,Medium,Online,0.1094,1378.75
+ORD10079,INV20079,2024-04-13,2024,4,Apr,15,Saturday,C1774,Customer 90,Central,India,P141,Binders Model 49,Office Supplies,Binders,6,689.34,0.15,3515.63,3458.62,64.56,-7.55,Medium,Online,-0.0021,57.01
+ORD10080,INV20080,2024-07-23,2024,7,Jul,30,Tuesday,C1992,Customer 47,South,Maldives,P933,Supplement Model 32,Pharmaceuticals,Supplement,3,612.11,0.15,1560.88,1379.95,56.83,124.1,Low,Online,0.0795,180.93
+ORD10081,INV20081,2023-08-03,2023,8,Aug,31,Thursday,C1678,Customer 206,South,Sri Lanka,P607,Supplement Model 19,Pharmaceuticals,Supplement,6,713.38,0.2,3424.22,2391.11,77.96,955.15,Low,Online,0.2789,1033.11
+ORD10082,INV20082,2024-05-31,2024,5,May,22,Friday,C1673,Customer 278,East,India,P944,Supplement Model 1,Pharmaceuticals,Supplement,3,122.0,0.15,311.1,239.79,63.09,8.22,Medium,Online,0.0264,71.31
+ORD10083,INV20083,2025-01-10,2025,1,Jan,2,Friday,C1562,Customer 68,Central,India,P308,OTC Model 18,Pharmaceuticals,OTC,4,3929.08,0.1,14144.69,10513.63,65.99,3565.07,Medium,Retail,0.252,3631.06
+ORD10084,INV20084,2023-09-06,2023,9,Sep,36,Wednesday,C1564,Customer 8,North,Bhutan,P262,Storage Model 20,Furniture,Storage,5,2322.72,0.2,9290.88,9801.99,54.34,-565.45,Medium,Online,-0.0609,-511.11
+ORD10085,INV20085,2023-08-21,2023,8,Aug,34,Monday,C1521,Customer 362,West,India,P833,Tables Model 19,Furniture,Tables,3,687.95,0.1,1857.47,1214.4,23.67,619.4,Medium,Online,0.3335,643.07
+ORD10086,INV20086,2025-08-25,2025,8,Aug,35,Monday,C1520,Customer 383,South,Sri Lanka,P295,Tables Model 39,Furniture,Tables,2,1761.05,0.05,3345.99,2884.73,52.66,408.6,High,Online,0.1221,461.26
+ORD10087,INV20087,2025-04-29,2025,4,Apr,18,Tuesday,C1305,Customer 301,East,Myanmar,P389,Paper Model 47,Office Supplies,Paper,2,252.3,0.2,403.68,303.1,35.07,65.51,Critical,Online,0.1623,100.58
+ORD10088,INV20088,2023-11-01,2023,11,Nov,44,Wednesday,C1781,Customer 279,West,Oman,P440,Prescription Model 36,Pharmaceuticals,Prescription,1,647.15,0.15,550.08,445.39,28.57,76.12,Medium,Online,0.1384,104.69
+ORD10089,INV20089,2024-01-22,2024,1,Jan,4,Monday,C1420,Customer 23,South,Maldives,P976,OTC Model 50,Pharmaceuticals,OTC,3,4007.08,0.1,10819.12,8876.12,17.36,1925.64,Medium,Retail,0.178,1943.0
+ORD10090,INV20090,2025-02-19,2025,2,Feb,8,Wednesday,C1514,Customer 303,West,Oman,P137,Tables Model 9,Furniture,Tables,2,1420.54,0.1,2556.97,2249.74,77.34,229.89,High,Distributor,0.0899,307.23
+ORD10091,INV20091,2025-06-20,2025,6,Jun,25,Friday,C1419,Customer 336,North,Bhutan,P839,OTC Model 10,Pharmaceuticals,OTC,1,1883.84,0.05,1789.65,1309.94,65.64,414.07,Low,Retail,0.2314,479.71
+ORD10092,INV20092,2024-06-26,2024,6,Jun,26,Wednesday,C1872,Customer 346,East,Myanmar,P182,Supplement Model 22,Pharmaceuticals,Supplement,3,1299.56,0.2,3118.94,2978.61,90.57,49.76,Low,Online,0.016,140.33
+ORD10093,INV20093,2025-09-26,2025,9,Sep,39,Friday,C1943,Customer 148,Central,India,P746,Phones Model 44,Electronics,Phones,2,2264.69,0.05,4302.91,3214.89,31.82,1056.2,Medium,Online,0.2455,1088.02
+ORD10094,INV20094,2023-07-21,2023,7,Jul,29,Friday,C1047,Customer 167,North,Nepal,P406,Storage Model 2,Furniture,Storage,2,1644.29,0.0,3288.58,2017.33,39.47,1231.78,Low,Online,0.3746,1271.25
+ORD10095,INV20095,2023-10-26,2023,10,Oct,43,Thursday,C1174,Customer 90,South,Maldives,P798,Supplement Model 12,Pharmaceuticals,Supplement,3,3956.4,0.0,11869.2,8302.89,17.82,3548.49,Medium,Online,0.299,3566.31
+ORD10096,INV20096,2024-05-08,2024,5,May,19,Wednesday,C1260,Customer 236,West,Oman,P572,Chairs Model 41,Furniture,Chairs,4,1454.69,0.1,5236.88,3834.12,68.13,1334.63,Medium,Distributor,0.2549,1402.76
+ORD10097,INV20097,2025-08-10,2025,8,Aug,32,Sunday,C1601,Customer 154,East,Myanmar,P552,Chairs Model 23,Furniture,Chairs,4,553.82,0.15,1882.99,1319.99,32.14,530.86,Medium,Online,0.2819,563.0
+ORD10098,INV20098,2024-09-10,2024,9,Sep,37,Tuesday,C1585,Customer 184,South,Sri Lanka,P342,OTC Model 25,Pharmaceuticals,OTC,1,1461.22,0.2,1168.98,879.67,90.71,198.6,Low,Retail,0.1699,289.31
+ORD10099,INV20099,2023-02-14,2023,2,Feb,7,Tuesday,C1796,Customer 382,West,UAE,P985,Accessories Model 44,Electronics,Accessories,1,2081.46,0.0,2081.46,1758.24,20.08,303.14,High,Retail,0.1456,323.22
+ORD10100,INV20100,2024-08-09,2024,8,Aug,32,Friday,C1635,Customer 129,South,Maldives,P751,Paper Model 13,Office Supplies,Paper,5,3359.78,0.05,15958.95,13923.14,60.11,1975.7,Medium,Distributor,0.1238,2035.81
+ORD10101,INV20101,2023-03-22,2023,3,Mar,12,Wednesday,C1134,Customer 47,East,Bangladesh,P473,Accessories Model 47,Electronics,Accessories,3,1652.21,0.1,4460.97,3358.77,55.68,1046.52,Low,Online,0.2346,1102.2
+ORD10102,INV20102,2024-02-16,2024,2,Feb,7,Friday,C1850,Customer 85,South,Maldives,P613,Binders Model 18,Office Supplies,Binders,1,3072.57,0.1,2765.31,1955.96,62.31,747.04,High,Distributor,0.2701,809.35
+ORD10103,INV20103,2024-08-27,2024,8,Aug,35,Tuesday,C1989,Customer 116,East,India,P244,OTC Model 49,Pharmaceuticals,OTC,2,306.53,0.15,521.1,399.09,22.1,99.91,Critical,Retail,0.1917,122.01
+ORD10104,INV20104,2025-01-19,2025,1,Jan,3,Sunday,C1465,Customer 189,North,Nepal,P649,Laptops Model 8,Electronics,Laptops,2,4058.88,0.1,7305.98,5084.9,71.34,2149.74,Medium,Retail,0.2942,2221.08
+ORD10105,INV20105,2025-01-30,2025,1,Jan,5,Thursday,C1905,Customer 288,North,Bhutan,P125,Tables Model 40,Furniture,Tables,4,4651.17,0.1,16744.21,14868.6,96.85,1778.76,High,Online,0.1062,1875.61
+ORD10106,INV20106,2023-05-10,2023,5,May,19,Wednesday,C1143,Customer 24,West,Oman,P518,Binders Model 8,Office Supplies,Binders,3,379.16,0.0,1137.48,878.52,61.7,197.26,Low,Online,0.1734,258.96
+ORD10107,INV20107,2023-07-19,2023,7,Jul,29,Wednesday,C1686,Customer 381,South,Maldives,P564,Tables Model 24,Furniture,Tables,3,860.1,0.2,2064.24,1546.32,83.31,434.61,Medium,Retail,0.2105,517.92
+ORD10108,INV20108,2023-11-13,2023,11,Nov,46,Monday,C1961,Customer 144,West,Oman,P730,Laptops Model 27,Electronics,Laptops,4,4092.17,0.0,16368.68,11159.19,43.92,5165.57,Medium,Online,0.3156,5209.49
+ORD10109,INV20109,2025-06-29,2025,6,Jun,26,Sunday,C1923,Customer 331,South,Sri Lanka,P476,Accessories Model 35,Electronics,Accessories,4,4502.89,0.1,16210.4,11980.7,58.92,4170.78,Low,Online,0.2573,4229.7
+ORD10110,INV20110,2023-09-08,2023,9,Sep,36,Friday,C1994,Customer 11,West,India,P754,Storage Model 39,Furniture,Storage,4,1707.78,0.0,6831.12,4042.53,81.46,2707.13,High,Online,0.3963,2788.59
+ORD10111,INV20111,2023-09-15,2023,9,Sep,37,Friday,C1221,Customer 120,Central,India,P312,Accessories Model 38,Electronics,Accessories,4,1593.02,0.1,5734.87,3979.66,76.96,1678.25,High,Retail,0.2926,1755.21
+ORD10112,INV20112,2023-01-06,2023,1,Jan,1,Friday,C1112,Customer 339,East,India,P356,Storage Model 12,Furniture,Storage,1,2870.95,0.0,2870.95,2235.72,88.91,546.32,Low,Online,0.1903,635.23
+ORD10113,INV20113,2024-05-02,2024,5,May,18,Thursday,C1129,Customer 380,Central,India,P371,Phones Model 4,Electronics,Phones,2,4239.94,0.15,7207.9,4988.26,45.76,2173.88,Medium,Retail,0.3016,2219.64
+ORD10114,INV20114,2025-09-02,2025,9,Sep,36,Tuesday,C1968,Customer 315,West,UAE,P615,Laptops Model 15,Electronics,Laptops,2,3625.15,0.0,7250.3,5553.81,67.7,1628.79,Medium,Distributor,0.2247,1696.49
+ORD10115,INV20115,2024-09-09,2024,9,Sep,37,Monday,C1436,Customer 352,West,Oman,P590,Phones Model 26,Electronics,Phones,3,948.91,0.0,2846.73,2341.54,62.51,442.68,Medium,Distributor,0.1555,505.19
+ORD10116,INV20116,2023-05-31,2023,5,May,22,Wednesday,C1639,Customer 325,North,Nepal,P229,Chairs Model 18,Furniture,Chairs,3,2951.84,0.2,7084.42,6214.51,65.03,804.88,Medium,Online,0.1136,869.91
+ORD10117,INV20117,2024-08-26,2024,8,Aug,35,Monday,C1117,Customer 336,West,Oman,P912,OTC Model 45,Pharmaceuticals,OTC,1,4367.01,0.2,3493.61,3623.03,60.86,-190.28,Medium,Online,-0.0545,-129.42
+ORD10118,INV20118,2025-07-13,2025,7,Jul,28,Sunday,C1747,Customer 49,South,Sri Lanka,P508,Writing Model 27,Office Supplies,Writing,4,3053.24,0.1,10991.66,8271.1,76.28,2644.28,Medium,Retail,0.2406,2720.56
+ORD10119,INV20119,2025-02-05,2025,2,Feb,6,Wednesday,C1095,Customer 222,South,Maldives,P193,OTC Model 6,Pharmaceuticals,OTC,3,4924.96,0.0,14774.88,11844.57,21.22,2909.09,Medium,Online,0.1969,2930.31
+ORD10120,INV20120,2023-09-24,2023,9,Sep,38,Sunday,C1362,Customer 341,Central,India,P225,Binders Model 27,Office Supplies,Binders,5,1709.23,0.15,7264.23,6758.77,10.42,495.04,High,Retail,0.0681,505.46
+ORD10121,INV20121,2024-08-12,2024,8,Aug,33,Monday,C1217,Customer 80,Central,India,P691,Paper Model 33,Office Supplies,Paper,4,1767.42,0.15,6009.23,5452.49,50.7,506.04,Low,Online,0.0842,556.74
+ORD10122,INV20122,2025-01-22,2025,1,Jan,4,Wednesday,C1997,Customer 393,North,Nepal,P965,Tables Model 36,Furniture,Tables,2,923.12,0.2,1476.99,1291.46,47.7,137.83,Medium,Retail,0.0933,185.53
+ORD10123,INV20123,2023-02-23,2023,2,Feb,8,Thursday,C1780,Customer 159,Central,India,P379,Phones Model 45,Electronics,Phones,4,3334.51,0.1,12004.24,8048.32,96.5,3859.42,Low,Online,0.3215,3955.92
+ORD10124,INV20124,2023-10-21,2023,10,Oct,42,Saturday,C1995,Customer 16,Central,India,P858,Phones Model 41,Electronics,Phones,2,4984.53,0.0,9969.06,6984.91,63.58,2920.57,Medium,Online,0.293,2984.15
+ORD10125,INV20125,2025-05-09,2025,5,May,19,Friday,C1332,Customer 398,West,UAE,P419,Tables Model 47,Furniture,Tables,2,4495.37,0.2,7192.59,5498.21,27.16,1667.22,Medium,Distributor,0.2318,1694.38
+ORD10126,INV20126,2023-11-15,2023,11,Nov,46,Wednesday,C1453,Customer 339,South,Maldives,P183,Accessories Model 18,Electronics,Accessories,1,2386.73,0.15,2028.72,1717.14,15.91,295.67,Medium,Online,0.1457,311.58
+ORD10127,INV20127,2024-07-13,2024,7,Jul,28,Saturday,C1290,Customer 348,South,Maldives,P540,Laptops Model 8,Electronics,Laptops,4,2820.22,0.2,9024.7,6729.86,26.37,2268.47,Medium,Retail,0.2514,2294.84
+ORD10128,INV20128,2023-04-04,2023,4,Apr,14,Tuesday,C1968,Customer 109,South,Sri Lanka,P309,Phones Model 20,Electronics,Phones,5,175.66,0.05,834.38,524.21,74.44,235.73,High,Online,0.2825,310.17
+ORD10129,INV20129,2023-09-03,2023,9,Sep,35,Sunday,C1545,Customer 361,North,Nepal,P232,OTC Model 25,Pharmaceuticals,OTC,1,1148.76,0.05,1091.32,711.45,70.47,309.4,Medium,Retail,0.2835,379.87
+ORD10130,INV20130,2024-12-26,2024,12,Dec,52,Thursday,C1943,Customer 40,North,Nepal,P119,Laptops Model 30,Electronics,Laptops,1,565.34,0.1,508.81,446.6,26.07,36.14,Medium,Retail,0.071,62.21
+ORD10131,INV20131,2025-05-05,2025,5,May,19,Monday,C1820,Customer 317,East,India,P432,OTC Model 11,Pharmaceuticals,OTC,2,1253.7,0.15,2131.29,1922.37,87.01,121.91,High,Distributor,0.0572,208.92
+ORD10132,INV20132,2023-06-30,2023,6,Jun,26,Friday,C1536,Customer 41,West,India,P703,Tables Model 26,Furniture,Tables,3,1501.08,0.15,3827.75,3687.71,11.17,128.87,High,Retail,0.0337,140.04
+ORD10133,INV20133,2024-03-29,2024,3,Mar,13,Friday,C1543,Customer 262,East,India,P748,Accessories Model 8,Electronics,Accessories,1,181.33,0.05,172.26,109.6,62.47,0.19,High,Online,0.0011,62.66
+ORD10134,INV20134,2023-10-30,2023,10,Oct,44,Monday,C1616,Customer 79,South,India,P302,Tables Model 12,Furniture,Tables,4,1929.48,0.0,7717.92,5611.61,34.13,2072.18,Low,Retail,0.2685,2106.31
+ORD10135,INV20135,2025-10-08,2025,10,Oct,41,Wednesday,C1650,Customer 320,West,Oman,P678,Supplement Model 42,Pharmaceuticals,Supplement,4,4744.84,0.1,17081.42,14786.47,22.61,2272.34,High,Retail,0.133,2294.95
+ORD10136,INV20136,2023-11-06,2023,11,Nov,45,Monday,C1815,Customer 141,West,India,P746,Prescription Model 20,Pharmaceuticals,Prescription,5,1379.95,0.2,5519.8,4916.0,67.01,536.79,Low,Retail,0.0972,603.8
+ORD10137,INV20137,2024-09-27,2024,9,Sep,39,Friday,C1078,Customer 331,West,UAE,P477,Phones Model 19,Electronics,Phones,1,4182.9,0.0,4182.9,3535.89,57.31,589.7,Medium,Retail,0.141,647.01
+ORD10138,INV20138,2025-08-05,2025,8,Aug,32,Tuesday,C1329,Customer 310,Central,India,P767,Supplement Model 13,Pharmaceuticals,Supplement,1,141.03,0.15,119.88,116.25,20.6,-16.97,Medium,Distributor,-0.1416,3.63
+ORD10139,INV20139,2025-07-11,2025,7,Jul,28,Friday,C1040,Customer 127,North,Nepal,P761,Accessories Model 12,Electronics,Accessories,4,1071.79,0.15,3644.09,2372.08,22.32,1249.69,Critical,Retail,0.3429,1272.01
+ORD10140,INV20140,2023-11-22,2023,11,Nov,47,Wednesday,C1346,Customer 348,East,Bangladesh,P518,Writing Model 50,Office Supplies,Writing,5,4576.34,0.2,18305.36,15459.59,44.48,2801.29,Low,Retail,0.153,2845.77
+ORD10141,INV20141,2024-11-16,2024,11,Nov,46,Saturday,C1290,Customer 130,North,Nepal,P794,Accessories Model 25,Electronics,Accessories,1,873.1,0.2,698.48,673.52,17.45,7.51,High,Online,0.0108,24.96
+ORD10142,INV20142,2023-10-17,2023,10,Oct,42,Tuesday,C1960,Customer 44,East,Bangladesh,P709,OTC Model 46,Pharmaceuticals,OTC,3,1810.58,0.1,4888.57,4159.16,36.74,692.67,Medium,Retail,0.1417,729.41
+ORD10143,INV20143,2024-11-03,2024,11,Nov,44,Sunday,C1520,Customer 186,South,Maldives,P786,Accessories Model 28,Electronics,Accessories,5,204.36,0.0,1021.8,642.38,63.56,315.86,Low,Online,0.3091,379.42
+ORD10144,INV20144,2024-03-14,2024,3,Mar,11,Thursday,C1079,Customer 152,East,Bangladesh,P240,Chairs Model 10,Furniture,Chairs,1,3004.37,0.0,3004.37,1953.66,79.38,971.33,Medium,Retail,0.3233,1050.71
+ORD10145,INV20145,2023-03-19,2023,3,Mar,11,Sunday,C1166,Customer 93,East,Myanmar,P485,Storage Model 10,Furniture,Storage,1,3654.53,0.2,2923.62,2553.23,71.96,298.43,High,Online,0.1021,370.39
+ORD10146,INV20146,2025-06-15,2025,6,Jun,24,Sunday,C1992,Customer 228,North,Nepal,P836,Binders Model 16,Office Supplies,Binders,4,1397.12,0.2,4470.78,4063.21,42.49,365.08,Low,Retail,0.0817,407.57
+ORD10147,INV20147,2025-07-08,2025,7,Jul,28,Tuesday,C1925,Customer 100,South,Maldives,P928,Tables Model 31,Furniture,Tables,2,4753.67,0.1,8556.61,6501.14,26.66,2028.81,Medium,Retail,0.2371,2055.47
+ORD10148,INV20148,2025-06-21,2025,6,Jun,25,Saturday,C1989,Customer 83,West,UAE,P640,Supplement Model 27,Pharmaceuticals,Supplement,7,2472.65,0.05,16443.12,10668.35,98.89,5675.88,High,Online,0.3452,5774.77
+ORD10149,INV20149,2024-05-27,2024,5,May,22,Monday,C1728,Customer 265,North,Bhutan,P667,Prescription Model 7,Pharmaceuticals,Prescription,1,3542.6,0.0,3542.6,2931.77,26.25,584.58,Low,Retail,0.165,610.83
+ORD10150,INV20150,2024-07-12,2024,7,Jul,28,Friday,C1836,Customer 231,West,Oman,P193,Tables Model 15,Furniture,Tables,2,3502.23,0.1,6304.01,4477.28,93.2,1733.53,High,Online,0.275,1826.73
+ORD10151,INV20151,2025-03-22,2025,3,Mar,12,Saturday,C1229,Customer 15,Central,India,P183,Tables Model 24,Furniture,Tables,7,3001.54,0.1,18909.7,13005.73,20.85,5883.12,High,Retail,0.3111,5903.97
+ORD10152,INV20152,2024-11-17,2024,11,Nov,46,Sunday,C1712,Customer 72,South,India,P949,Laptops Model 31,Electronics,Laptops,2,3637.6,0.15,6183.92,4144.0,38.38,2001.54,Medium,Online,0.3237,2039.92
+ORD10153,INV20153,2023-06-12,2023,6,Jun,24,Monday,C1623,Customer 271,North,Nepal,P661,Chairs Model 47,Furniture,Chairs,5,1203.15,0.15,5113.39,3352.7,88.31,1672.38,Low,Online,0.3271,1760.69
+ORD10154,INV20154,2024-09-08,2024,9,Sep,36,Sunday,C1468,Customer 33,North,India,P754,Tables Model 40,Furniture,Tables,1,4379.77,0.0,4379.77,3103.86,94.52,1181.39,High,Online,0.2697,1275.91
+ORD10155,INV20155,2023-02-03,2023,2,Feb,5,Friday,C1629,Customer 181,Central,India,P539,Tables Model 1,Furniture,Tables,5,3156.15,0.05,14991.71,12815.6,98.57,2077.54,Medium,Online,0.1386,2176.11
+ORD10156,INV20156,2023-06-25,2023,6,Jun,25,Sunday,C1805,Customer 260,Central,India,P657,Accessories Model 33,Electronics,Accessories,4,596.85,0.2,1909.92,1567.06,35.85,307.01,Low,Distributor,0.1607,342.86
+ORD10157,INV20157,2023-03-31,2023,3,Mar,13,Friday,C1807,Customer 35,West,UAE,P116,Binders Model 23,Office Supplies,Binders,2,138.48,0.1,249.26,234.4,48.5,-33.64,Low,Retail,-0.135,14.86
+ORD10158,INV20158,2023-08-01,2023,8,Aug,31,Tuesday,C1346,Customer 330,Central,India,P460,Chairs Model 35,Furniture,Chairs,4,492.58,0.05,1871.8,1330.51,89.12,452.17,High,Retail,0.2416,541.29
+ORD10159,INV20159,2025-09-07,2025,9,Sep,36,Sunday,C1037,Customer 151,South,India,P894,Accessories Model 30,Electronics,Accessories,3,4956.28,0.05,14125.4,9211.27,94.85,4819.28,Low,Online,0.3412,4914.13
+ORD10160,INV20160,2023-03-27,2023,3,Mar,13,Monday,C1037,Customer 386,East,Bangladesh,P584,Supplement Model 17,Pharmaceuticals,Supplement,3,923.81,0.05,2632.86,1707.61,26.78,898.47,Low,Distributor,0.3413,925.25
+ORD10161,INV20161,2023-04-08,2023,4,Apr,14,Saturday,C1761,Customer 226,East,Bangladesh,P547,Laptops Model 26,Electronics,Laptops,2,4847.06,0.15,8240.0,7902.02,93.5,244.48,Low,Online,0.0297,337.98
+ORD10162,INV20162,2025-10-15,2025,10,Oct,42,Wednesday,C1080,Customer 221,East,Myanmar,P844,Paper Model 28,Office Supplies,Paper,4,811.78,0.2,2597.7,2580.65,30.2,-13.15,Critical,Online,-0.0051,17.05
+ORD10163,INV20163,2024-08-24,2024,8,Aug,34,Saturday,C1313,Customer 229,East,India,P776,Laptops Model 19,Electronics,Laptops,3,502.86,0.2,1206.86,1226.83,33.9,-53.87,Medium,Online,-0.0446,-19.97
+ORD10164,INV20164,2025-06-28,2025,6,Jun,26,Saturday,C1629,Customer 223,East,Bangladesh,P990,Accessories Model 23,Electronics,Accessories,6,480.58,0.1,2595.13,1939.24,43.54,612.35,Medium,Retail,0.236,655.89
+ORD10165,INV20165,2023-04-28,2023,4,Apr,17,Friday,C1695,Customer 82,North,Bhutan,P625,Prescription Model 48,Pharmaceuticals,Prescription,3,1139.91,0.0,3419.73,2581.82,16.85,821.06,Low,Retail,0.2401,837.91
+ORD10166,INV20166,2025-06-16,2025,6,Jun,25,Monday,C1375,Customer 186,North,India,P897,Phones Model 42,Electronics,Phones,5,3406.18,0.15,14476.26,12257.47,34.03,2184.76,High,Online,0.1509,2218.79
+ORD10167,INV20167,2023-11-11,2023,11,Nov,45,Saturday,C1587,Customer 71,West,UAE,P881,Writing Model 5,Office Supplies,Writing,10,835.1,0.2,6680.8,6799.9,88.47,-207.57,Low,Online,-0.0311,-119.1
+ORD10168,INV20168,2024-07-24,2024,7,Jul,30,Wednesday,C1530,Customer 199,South,India,P290,Accessories Model 32,Electronics,Accessories,1,4137.79,0.2,3310.23,2435.76,40.16,834.31,Low,Retail,0.252,874.47
+ORD10169,INV20169,2025-07-02,2025,7,Jul,27,Wednesday,C1125,Customer 70,South,Maldives,P602,Binders Model 13,Office Supplies,Binders,4,81.61,0.0,326.44,207.65,65.52,53.27,Medium,Distributor,0.1632,118.79
+ORD10170,INV20170,2025-06-30,2025,6,Jun,27,Monday,C1066,Customer 282,North,Bhutan,P455,Binders Model 46,Office Supplies,Binders,5,579.55,0.2,2318.2,2255.34,58.71,4.15,Low,Online,0.0018,62.86
+ORD10171,INV20171,2023-11-19,2023,11,Nov,46,Sunday,C1242,Customer 253,South,Sri Lanka,P305,Chairs Model 9,Furniture,Chairs,4,4689.28,0.0,18757.12,14187.24,16.11,4553.77,Low,Retail,0.2428,4569.88
+ORD10172,INV20172,2025-08-15,2025,8,Aug,33,Friday,C1734,Customer 369,Central,India,P416,Phones Model 26,Electronics,Phones,2,2931.74,0.15,4983.96,3833.34,65.88,1084.74,Medium,Retail,0.2176,1150.62
+ORD10173,INV20173,2023-06-01,2023,6,Jun,22,Thursday,C1529,Customer 177,South,Sri Lanka,P577,Laptops Model 44,Electronics,Laptops,1,4364.11,0.05,4145.9,3674.78,97.2,373.92,High,Retail,0.0902,471.12
+ORD10174,INV20174,2024-01-08,2024,1,Jan,2,Monday,C1311,Customer 85,South,Sri Lanka,P630,Phones Model 10,Electronics,Phones,3,159.51,0.05,454.6,309.65,53.98,90.97,Low,Retail,0.2001,144.95
+ORD10175,INV20175,2024-12-09,2024,12,Dec,50,Monday,C1979,Customer 283,Central,India,P301,Laptops Model 41,Electronics,Laptops,5,2284.37,0.1,10279.66,6842.68,81.53,3355.45,Low,Online,0.3264,3436.98
+ORD10176,INV20176,2023-07-11,2023,7,Jul,28,Tuesday,C1737,Customer 310,Central,India,P774,Chairs Model 40,Furniture,Chairs,2,3418.47,0.1,6153.25,5102.77,34.59,1015.89,High,Retail,0.1651,1050.48
+ORD10177,INV20177,2023-02-28,2023,2,Feb,9,Tuesday,C1585,Customer 214,North,India,P315,Binders Model 50,Office Supplies,Binders,4,3210.7,0.2,10274.24,8595.41,34.68,1644.15,Medium,Online,0.16,1678.83
+ORD10178,INV20178,2024-08-16,2024,8,Aug,33,Friday,C1464,Customer 38,East,Bangladesh,P515,Storage Model 20,Furniture,Storage,4,204.11,0.0,816.44,608.66,43.17,164.61,Low,Online,0.2016,207.78
+ORD10179,INV20179,2025-08-09,2025,8,Aug,32,Saturday,C1326,Customer 376,South,Sri Lanka,P982,Tables Model 46,Furniture,Tables,5,3866.06,0.1,17397.27,15530.64,78.49,1788.14,Critical,Online,0.1028,1866.63
+ORD10180,INV20180,2025-01-28,2025,1,Jan,5,Tuesday,C1273,Customer 231,Central,India,P577,Paper Model 8,Office Supplies,Paper,2,4608.2,0.05,8755.58,6774.01,81.69,1899.88,Low,Online,0.217,1981.57
+ORD10181,INV20181,2025-02-25,2025,2,Feb,9,Tuesday,C1956,Customer 296,Central,India,P933,Chairs Model 21,Furniture,Chairs,2,3443.55,0.1,6198.39,4676.97,28.05,1493.37,Low,Online,0.2409,1521.42
+ORD10182,INV20182,2025-08-14,2025,8,Aug,33,Thursday,C1517,Customer 235,West,UAE,P192,OTC Model 26,Pharmaceuticals,OTC,1,2930.76,0.05,2784.22,1848.42,81.78,854.02,Low,Online,0.3067,935.8
+ORD10183,INV20183,2023-04-14,2023,4,Apr,15,Friday,C1867,Customer 56,East,Bangladesh,P649,Prescription Model 1,Pharmaceuticals,Prescription,2,408.61,0.15,694.64,545.7,53.19,95.75,Low,Online,0.1378,148.94
+ORD10184,INV20184,2025-01-19,2025,1,Jan,3,Sunday,C1575,Customer 100,West,UAE,P152,Laptops Model 37,Electronics,Laptops,5,2428.51,0.1,10928.3,7060.64,31.78,3835.88,Medium,Online,0.351,3867.66
+ORD10185,INV20185,2025-07-11,2025,7,Jul,28,Friday,C1382,Customer 174,Central,India,P199,Phones Model 26,Electronics,Phones,3,3527.2,0.2,8465.28,7596.47,10.88,857.93,High,Retail,0.1013,868.81
+ORD10186,INV20186,2024-02-12,2024,2,Feb,7,Monday,C1730,Customer 171,Central,India,P139,Phones Model 9,Electronics,Phones,2,1785.6,0.15,3035.52,1999.73,17.07,1018.72,Medium,Online,0.3356,1035.79
+ORD10187,INV20187,2023-10-14,2023,10,Oct,41,Saturday,C1757,Customer 154,East,Myanmar,P502,Paper Model 40,Office Supplies,Paper,2,3462.85,0.2,5540.56,5472.52,28.01,40.03,Low,Retail,0.0072,68.04
+ORD10188,INV20188,2025-09-30,2025,9,Sep,40,Tuesday,C1689,Customer 57,Central,India,P477,OTC Model 22,Pharmaceuticals,OTC,1,3200.33,0.15,2720.28,2438.47,12.84,268.97,Medium,Retail,0.0989,281.81
+ORD10189,INV20189,2023-02-24,2023,2,Feb,8,Friday,C1592,Customer 296,Central,India,P901,Binders Model 50,Office Supplies,Binders,1,2729.42,0.05,2592.95,2081.78,88.39,422.78,Medium,Retail,0.163,511.17
+ORD10190,INV20190,2023-12-16,2023,12,Dec,50,Saturday,C1586,Customer 359,Central,India,P348,Storage Model 3,Furniture,Storage,4,4479.34,0.0,17917.36,12797.97,83.56,5035.83,Low,Online,0.2811,5119.39
+ORD10191,INV20191,2025-05-07,2025,5,May,19,Wednesday,C1626,Customer 242,South,Sri Lanka,P613,Tables Model 50,Furniture,Tables,4,348.74,0.0,1394.96,870.64,24.36,499.96,Medium,Retail,0.3584,524.32
+ORD10192,INV20192,2024-10-27,2024,10,Oct,43,Sunday,C1934,Customer 273,West,Oman,P277,Prescription Model 30,Pharmaceuticals,Prescription,4,3959.01,0.1,14252.44,11839.22,54.84,2358.38,Medium,Retail,0.1655,2413.22
+ORD10193,INV20193,2024-06-25,2024,6,Jun,26,Tuesday,C1305,Customer 116,Central,India,P385,Chairs Model 36,Furniture,Chairs,6,3417.13,0.1,18452.5,11720.61,12.76,6719.13,High,Retail,0.3641,6731.89
+ORD10194,INV20194,2025-09-28,2025,9,Sep,39,Sunday,C1280,Customer 148,East,Bangladesh,P914,Binders Model 47,Office Supplies,Binders,5,1762.38,0.0,8811.9,5827.41,98.89,2885.6,Medium,Retail,0.3275,2984.49
+ORD10195,INV20195,2025-03-19,2025,3,Mar,12,Wednesday,C1080,Customer 178,East,India,P394,Paper Model 46,Office Supplies,Paper,1,4341.81,0.15,3690.54,3141.75,49.48,499.31,Medium,Retail,0.1353,548.79
+ORD10196,INV20196,2024-03-14,2024,3,Mar,11,Thursday,C1140,Customer 56,South,Maldives,P812,Binders Model 18,Office Supplies,Binders,5,2982.13,0.2,11928.52,12282.04,28.96,-382.48,Medium,Online,-0.0321,-353.52
+ORD10197,INV20197,2023-04-14,2023,4,Apr,15,Friday,C1338,Customer 368,Central,India,P202,Chairs Model 27,Furniture,Chairs,3,3593.33,0.15,9162.99,8868.8,26.17,268.02,Low,Retail,0.0293,294.19
+ORD10198,INV20198,2023-01-11,2023,1,Jan,2,Wednesday,C1488,Customer 334,Central,India,P999,Supplement Model 31,Pharmaceuticals,Supplement,2,4279.21,0.05,8130.5,5971.07,32.25,2127.18,High,Online,0.2616,2159.43
+ORD10199,INV20199,2024-08-07,2024,8,Aug,32,Wednesday,C1870,Customer 20,North,India,P856,Storage Model 47,Furniture,Storage,4,859.44,0.05,3265.87,2294.1,97.25,874.52,Medium,Retail,0.2678,971.77
+ORD10200,INV20200,2023-03-16,2023,3,Mar,11,Thursday,C1897,Customer 20,West,UAE,P993,Storage Model 19,Furniture,Storage,3,697.82,0.0,2093.46,1760.49,50.84,282.13,Low,Retail,0.1348,332.97
+ORD10201,INV20201,2024-11-17,2024,11,Nov,46,Sunday,C1479,Customer 140,East,Bangladesh,P971,OTC Model 33,Pharmaceuticals,OTC,1,890.3,0.05,845.78,628.49,40.33,176.96,High,Online,0.2092,217.29
+ORD10202,INV20202,2025-07-28,2025,7,Jul,31,Monday,C1809,Customer 152,East,Myanmar,P854,Chairs Model 22,Furniture,Chairs,4,876.86,0.2,2805.95,2105.47,13.3,687.18,Medium,Online,0.2449,700.48
+ORD10203,INV20203,2025-04-10,2025,4,Apr,15,Thursday,C1097,Customer 95,West,Oman,P510,Paper Model 43,Office Supplies,Paper,7,604.0,0.05,4016.6,2667.55,15.14,1333.91,Medium,Distributor,0.3321,1349.05
+ORD10204,INV20204,2023-01-14,2023,1,Jan,2,Saturday,C1976,Customer 169,East,Bangladesh,P871,Tables Model 18,Furniture,Tables,2,654.44,0.1,1177.99,897.45,94.05,186.49,Medium,Retail,0.1583,280.54
+ORD10205,INV20205,2024-06-19,2024,6,Jun,25,Wednesday,C1476,Customer 158,East,Myanmar,P783,Chairs Model 8,Furniture,Chairs,2,784.3,0.05,1490.17,1327.02,96.86,66.29,Medium,Retail,0.0445,163.15
+ORD10206,INV20206,2024-09-28,2024,9,Sep,39,Saturday,C1224,Customer 69,North,Bhutan,P729,Writing Model 15,Office Supplies,Writing,1,4761.47,0.15,4047.25,3531.75,88.11,427.39,Low,Retail,0.1056,515.5
+ORD10207,INV20207,2025-02-04,2025,2,Feb,6,Tuesday,C1845,Customer 112,West,Oman,P921,Supplement Model 43,Pharmaceuticals,Supplement,4,198.37,0.05,753.81,509.71,73.42,170.68,Medium,Retail,0.2264,244.1
+ORD10208,INV20208,2023-06-17,2023,6,Jun,24,Saturday,C1063,Customer 281,Central,India,P677,Paper Model 8,Office Supplies,Paper,3,3379.38,0.2,8110.51,6925.62,88.13,1096.76,Low,Retail,0.1352,1184.89
+ORD10209,INV20209,2023-12-03,2023,12,Dec,48,Sunday,C1734,Customer 299,East,Myanmar,P796,OTC Model 14,Pharmaceuticals,OTC,5,3108.34,0.15,13210.44,12599.21,61.35,549.88,Low,Retail,0.0416,611.23
+ORD10210,INV20210,2023-04-24,2023,4,Apr,17,Monday,C1572,Customer 237,West,India,P677,Prescription Model 4,Pharmaceuticals,Prescription,1,4658.2,0.1,4192.38,3525.6,70.89,595.89,Medium,Online,0.1421,666.78
+ORD10211,INV20211,2023-01-07,2023,1,Jan,1,Saturday,C1717,Customer 33,South,Maldives,P533,Phones Model 23,Electronics,Phones,3,577.64,0.2,1386.34,1295.1,99.95,-8.71,Critical,Distributor,-0.0063,91.24
+ORD10212,INV20212,2023-05-22,2023,5,May,21,Monday,C1138,Customer 393,West,India,P284,Writing Model 50,Office Supplies,Writing,1,4887.01,0.15,4153.96,3284.42,88.37,781.17,Low,Distributor,0.1881,869.54
+ORD10213,INV20213,2025-07-07,2025,7,Jul,28,Monday,C1136,Customer 335,West,UAE,P777,Accessories Model 35,Electronics,Accessories,5,3354.59,0.1,15095.66,13290.11,78.61,1726.94,Low,Distributor,0.1144,1805.55
+ORD10214,INV20214,2025-03-15,2025,3,Mar,11,Saturday,C1305,Customer 238,Central,India,P874,Chairs Model 2,Furniture,Chairs,3,2745.22,0.2,6588.53,4543.84,39.21,2005.48,Medium,Online,0.3044,2044.69
+ORD10215,INV20215,2024-04-15,2024,4,Apr,16,Monday,C1959,Customer 372,South,Sri Lanka,P382,Paper Model 13,Office Supplies,Paper,3,2271.03,0.0,6813.09,4232.72,43.59,2536.78,Low,Retail,0.3723,2580.37
+ORD10216,INV20216,2023-02-02,2023,2,Feb,5,Thursday,C1457,Customer 307,South,India,P708,Phones Model 3,Electronics,Phones,1,3037.07,0.0,3037.07,2279.21,65.75,692.11,Low,Online,0.2279,757.86
+ORD10217,INV20217,2025-06-17,2025,6,Jun,25,Tuesday,C1296,Customer 120,South,Maldives,P243,Chairs Model 33,Furniture,Chairs,4,176.93,0.2,566.18,461.7,44.22,60.26,Low,Retail,0.1064,104.48
+ORD10218,INV20218,2024-10-18,2024,10,Oct,42,Friday,C1423,Customer 154,South,Sri Lanka,P633,Storage Model 15,Furniture,Storage,5,3604.71,0.1,16221.19,15079.53,11.64,1130.02,Low,Distributor,0.0697,1141.66
+ORD10219,INV20219,2023-12-25,2023,12,Dec,52,Monday,C1687,Customer 196,West,Oman,P452,OTC Model 42,Pharmaceuticals,OTC,1,3255.0,0.2,2604.0,2667.18,31.91,-95.09,Low,Online,-0.0365,-63.18
+ORD10220,INV20220,2023-11-02,2023,11,Nov,44,Thursday,C1869,Customer 116,East,Bangladesh,P584,Storage Model 16,Furniture,Storage,3,552.03,0.1,1490.48,1152.24,33.11,305.13,High,Online,0.2047,338.24
+ORD10221,INV20221,2025-08-06,2025,8,Aug,32,Wednesday,C1137,Customer 199,North,Bhutan,P670,Prescription Model 34,Pharmaceuticals,Prescription,3,1590.97,0.05,4534.26,3499.02,74.45,960.79,Low,Online,0.2119,1035.24
+ORD10222,INV20222,2023-06-11,2023,6,Jun,23,Sunday,C1052,Customer 138,West,UAE,P841,Accessories Model 13,Electronics,Accessories,2,946.69,0.15,1609.37,1428.24,26.33,154.8,Medium,Retail,0.0962,181.13
+ORD10223,INV20223,2023-05-30,2023,5,May,22,Tuesday,C1310,Customer 8,South,Maldives,P313,Tables Model 22,Furniture,Tables,2,2858.2,0.05,5430.58,3584.0,96.66,1749.92,High,Distributor,0.3222,1846.58
+ORD10224,INV20224,2023-08-29,2023,8,Aug,35,Tuesday,C1329,Customer 398,West,India,P345,Tables Model 36,Furniture,Tables,3,3184.1,0.1,8597.07,7980.19,64.15,552.73,Low,Retail,0.0643,616.88
+ORD10225,INV20225,2025-01-05,2025,1,Jan,1,Sunday,C1100,Customer 370,East,Bangladesh,P609,Binders Model 30,Office Supplies,Binders,3,3074.36,0.15,7839.62,6209.98,85.59,1544.05,High,Online,0.197,1629.64
+ORD10226,INV20226,2024-02-21,2024,2,Feb,8,Wednesday,C1759,Customer 75,East,Bangladesh,P676,OTC Model 15,Pharmaceuticals,OTC,4,4121.94,0.0,16487.76,11164.22,70.08,5253.46,Low,Distributor,0.3186,5323.54
+ORD10227,INV20227,2025-05-05,2025,5,May,19,Monday,C1583,Customer 126,East,India,P335,Tables Model 25,Furniture,Tables,2,2953.71,0.15,5021.31,3546.84,76.32,1398.15,Medium,Distributor,0.2784,1474.47
+ORD10228,INV20228,2024-11-22,2024,11,Nov,47,Friday,C1814,Customer 181,East,Bangladesh,P272,Prescription Model 47,Pharmaceuticals,Prescription,2,167.01,0.05,317.32,248.04,64.64,4.64,Low,Retail,0.0146,69.28
+ORD10229,INV20229,2024-01-12,2024,1,Jan,2,Friday,C1049,Customer 392,Central,India,P937,Phones Model 43,Electronics,Phones,2,2992.66,0.0,5985.32,4183.92,98.9,1702.5,Medium,Retail,0.2844,1801.4
+ORD10230,INV20230,2024-04-18,2024,4,Apr,16,Thursday,C1466,Customer 192,North,Bhutan,P323,Chairs Model 33,Furniture,Chairs,2,2169.59,0.0,4339.18,3320.68,72.32,946.18,Medium,Retail,0.2181,1018.5
+ORD10231,INV20231,2025-09-16,2025,9,Sep,38,Tuesday,C1012,Customer 9,West,India,P664,Accessories Model 27,Electronics,Accessories,2,3635.48,0.2,5816.77,5260.66,34.67,521.44,Medium,Retail,0.0896,556.11
+ORD10232,INV20232,2024-08-10,2024,8,Aug,32,Saturday,C1536,Customer 77,North,Bhutan,P209,OTC Model 7,Pharmaceuticals,OTC,1,4476.24,0.05,4252.43,2719.59,39.1,1493.74,Low,Retail,0.3513,1532.84
+ORD10233,INV20233,2024-12-26,2024,12,Dec,52,Thursday,C1578,Customer 125,East,Bangladesh,P515,Laptops Model 30,Electronics,Laptops,2,2619.35,0.05,4976.76,2987.55,82.03,1907.18,Low,Retail,0.3832,1989.21
+ORD10234,INV20234,2023-06-15,2023,6,Jun,24,Thursday,C1487,Customer 29,North,India,P486,Prescription Model 36,Pharmaceuticals,Prescription,4,1655.45,0.0,6621.8,4303.51,70.25,2248.04,Medium,Online,0.3395,2318.29
+ORD10235,INV20235,2025-06-07,2025,6,Jun,23,Saturday,C1216,Customer 355,East,Myanmar,P143,Accessories Model 15,Electronics,Accessories,5,2833.37,0.2,11333.48,11861.73,25.78,-554.03,Medium,Online,-0.0489,-528.25
+ORD10236,INV20236,2023-06-02,2023,6,Jun,22,Friday,C1016,Customer 107,East,Myanmar,P970,Phones Model 21,Electronics,Phones,3,2279.34,0.2,5470.42,5312.11,41.28,117.03,Low,Retail,0.0214,158.31
+ORD10237,INV20237,2025-03-26,2025,3,Mar,13,Wednesday,C1854,Customer 200,North,Nepal,P346,Storage Model 37,Furniture,Storage,4,804.46,0.2,2574.27,2727.91,93.43,-247.07,Low,Retail,-0.096,-153.64
+ORD10238,INV20238,2023-10-14,2023,10,Oct,41,Saturday,C1237,Customer 39,North,Bhutan,P200,Paper Model 28,Office Supplies,Paper,4,3788.59,0.1,13638.92,8915.52,84.35,4639.05,Medium,Retail,0.3401,4723.4
+ORD10239,INV20239,2025-03-23,2025,3,Mar,12,Sunday,C1364,Customer 284,East,India,P602,Writing Model 15,Office Supplies,Writing,2,1550.49,0.15,2635.83,1950.31,42.41,643.11,Medium,Retail,0.244,685.52
+ORD10240,INV20240,2025-02-17,2025,2,Feb,8,Monday,C1084,Customer 138,North,Bhutan,P830,Paper Model 5,Office Supplies,Paper,2,1562.35,0.05,2968.46,2090.72,50.25,827.49,Low,Retail,0.2788,877.74
+ORD10241,INV20241,2023-11-12,2023,11,Nov,45,Sunday,C1965,Customer 158,West,UAE,P193,Paper Model 1,Office Supplies,Paper,6,4656.45,0.15,23747.89,16341.62,83.57,7322.7,Low,Online,0.3084,7406.27
+ORD10242,INV20242,2023-09-29,2023,9,Sep,39,Friday,C1524,Customer 209,North,India,P670,Prescription Model 36,Pharmaceuticals,Prescription,6,2044.75,0.0,12268.5,7386.34,72.55,4809.61,Low,Online,0.392,4882.16
+ORD10243,INV20243,2023-07-10,2023,7,Jul,28,Monday,C1397,Customer 399,Central,India,P398,OTC Model 27,Pharmaceuticals,OTC,4,4316.97,0.0,17267.88,14277.55,53.84,2936.49,Medium,Retail,0.1701,2990.33
+ORD10244,INV20244,2024-05-12,2024,5,May,19,Sunday,C1308,Customer 138,Central,India,P242,OTC Model 18,Pharmaceuticals,OTC,3,2023.38,0.15,5159.62,3605.13,43.08,1511.41,Low,Online,0.2929,1554.49
+ORD10245,INV20245,2024-07-19,2024,7,Jul,29,Friday,C1966,Customer 127,West,UAE,P469,OTC Model 17,Pharmaceuticals,OTC,1,719.07,0.15,611.21,603.25,59.46,-51.5,Medium,Online,-0.0843,7.96
+ORD10246,INV20246,2023-08-08,2023,8,Aug,32,Tuesday,C1389,Customer 169,South,Sri Lanka,P440,Laptops Model 40,Electronics,Laptops,4,573.04,0.15,1948.34,1701.35,29.44,217.55,Low,Retail,0.1117,246.99
+ORD10247,INV20247,2023-10-06,2023,10,Oct,40,Friday,C1987,Customer 204,East,Bangladesh,P421,Tables Model 12,Furniture,Tables,3,3914.77,0.1,10569.88,8079.38,15.23,2475.27,Low,Retail,0.2342,2490.5
+ORD10248,INV20248,2025-10-02,2025,10,Oct,40,Thursday,C1373,Customer 59,Central,India,P387,Writing Model 26,Office Supplies,Writing,2,4919.21,0.2,7870.74,6117.08,22.8,1730.86,Low,Distributor,0.2199,1753.66
+ORD10249,INV20249,2024-01-04,2024,1,Jan,1,Thursday,C1816,Customer 150,Central,India,P314,Supplement Model 29,Pharmaceuticals,Supplement,1,550.18,0.0,550.18,416.84,15.61,117.73,High,Retail,0.214,133.34
+ORD10250,INV20250,2025-04-17,2025,4,Apr,16,Thursday,C1157,Customer 367,West,India,P358,Paper Model 43,Office Supplies,Paper,5,2658.86,0.15,11300.16,9011.21,21.76,2267.19,High,Online,0.2006,2288.95
+ORD10251,INV20251,2025-09-08,2025,9,Sep,37,Monday,C1718,Customer 275,Central,India,P137,Supplement Model 24,Pharmaceuticals,Supplement,3,2099.94,0.2,5039.86,5028.9,76.03,-65.07,Medium,Online,-0.0129,10.96
+ORD10252,INV20252,2024-05-23,2024,5,May,21,Thursday,C1662,Customer 205,East,India,P760,Accessories Model 44,Electronics,Accessories,1,2109.96,0.1,1898.96,1465.16,11.73,422.07,Critical,Online,0.2223,433.8
+ORD10253,INV20253,2023-01-22,2023,1,Jan,3,Sunday,C1571,Customer 298,North,Nepal,P864,Storage Model 34,Furniture,Storage,2,2699.79,0.2,4319.66,3318.37,11.09,990.2,Low,Online,0.2292,1001.29
+ORD10254,INV20254,2025-08-06,2025,8,Aug,32,Wednesday,C1302,Customer 213,Central,India,P594,Paper Model 7,Office Supplies,Paper,5,2762.4,0.0,13812.0,9479.36,85.99,4246.65,Low,Distributor,0.3075,4332.64
+ORD10255,INV20255,2023-10-18,2023,10,Oct,42,Wednesday,C1533,Customer 248,East,Bangladesh,P903,Writing Model 14,Office Supplies,Writing,1,792.74,0.1,713.47,513.22,76.36,123.89,Medium,Online,0.1736,200.25
+ORD10256,INV20256,2025-07-15,2025,7,Jul,29,Tuesday,C1117,Customer 12,East,India,P929,Paper Model 46,Office Supplies,Paper,3,3935.83,0.1,10626.74,9654.1,95.98,876.66,Medium,Retail,0.0825,972.64
+ORD10257,INV20257,2023-12-03,2023,12,Dec,48,Sunday,C1573,Customer 219,South,Maldives,P263,Storage Model 22,Furniture,Storage,4,4212.31,0.15,14321.85,9461.32,91.16,4769.37,Low,Online,0.333,4860.53
+ORD10258,INV20258,2024-01-13,2024,1,Jan,2,Saturday,C1628,Customer 102,South,Maldives,P129,Prescription Model 48,Pharmaceuticals,Prescription,6,2616.12,0.15,13342.21,9340.34,76.37,3925.5,Medium,Online,0.2942,4001.87
+ORD10259,INV20259,2024-03-15,2024,3,Mar,11,Friday,C1191,Customer 188,South,Sri Lanka,P204,Accessories Model 35,Electronics,Accessories,2,469.72,0.1,845.5,718.57,16.49,110.44,Low,Online,0.1306,126.93
+ORD10260,INV20260,2025-09-29,2025,9,Sep,40,Monday,C1116,Customer 179,Central,India,P501,Supplement Model 38,Pharmaceuticals,Supplement,1,4784.68,0.1,4306.21,3690.2,41.79,574.22,High,Retail,0.1333,616.01
+ORD10261,INV20261,2024-09-01,2024,9,Sep,35,Sunday,C1312,Customer 60,Central,India,P220,Tables Model 16,Furniture,Tables,4,911.84,0.05,3464.99,2113.71,69.43,1281.85,Low,Online,0.3699,1351.28
+ORD10262,INV20262,2025-03-06,2025,3,Mar,10,Thursday,C1190,Customer 250,West,Oman,P492,Storage Model 28,Furniture,Storage,2,456.75,0.2,730.8,767.67,36.59,-73.46,Medium,Retail,-0.1005,-36.87
+ORD10263,INV20263,2023-12-21,2023,12,Dec,51,Thursday,C1322,Customer 231,Central,India,P243,Prescription Model 12,Pharmaceuticals,Prescription,3,650.86,0.2,1562.06,1434.18,79.72,48.16,Low,Online,0.0308,127.88
+ORD10264,INV20264,2023-01-20,2023,1,Jan,3,Friday,C1668,Customer 254,West,India,P675,Tables Model 33,Furniture,Tables,2,4844.02,0.15,8234.83,7649.81,36.35,548.67,Medium,Online,0.0666,585.02
+ORD10265,INV20265,2025-06-28,2025,6,Jun,26,Saturday,C1225,Customer 150,West,India,P131,Accessories Model 49,Electronics,Accessories,6,1724.42,0.0,10346.52,8571.32,30.22,1744.98,Low,Retail,0.1687,1775.2
+ORD10266,INV20266,2023-12-11,2023,12,Dec,50,Monday,C1586,Customer 59,West,Oman,P623,Supplement Model 8,Pharmaceuticals,Supplement,3,4718.23,0.1,12739.22,8807.16,20.94,3911.12,High,Retail,0.307,3932.06
+ORD10267,INV20267,2025-01-21,2025,1,Jan,4,Tuesday,C1104,Customer 377,Central,India,P323,Supplement Model 28,Pharmaceuticals,Supplement,3,4088.94,0.05,11653.48,9916.63,86.19,1650.66,Low,Distributor,0.1416,1736.85
+ORD10268,INV20268,2025-07-10,2025,7,Jul,28,Thursday,C1794,Customer 122,East,Bangladesh,P986,Laptops Model 8,Electronics,Laptops,5,3893.41,0.05,18493.7,14538.94,25.97,3928.79,High,Retail,0.2124,3954.76
+ORD10269,INV20269,2024-12-19,2024,12,Dec,51,Thursday,C1833,Customer 106,Central,India,P242,Storage Model 14,Furniture,Storage,3,865.83,0.0,2597.49,1531.27,75.34,990.88,Medium,Retail,0.3815,1066.22
+ORD10270,INV20270,2023-12-11,2023,12,Dec,50,Monday,C1975,Customer 264,East,Myanmar,P686,Writing Model 18,Office Supplies,Writing,5,2972.22,0.0,14861.1,10440.04,36.78,4384.28,Low,Retail,0.295,4421.06
+ORD10271,INV20271,2025-04-22,2025,4,Apr,17,Tuesday,C1255,Customer 75,North,Nepal,P986,Storage Model 9,Furniture,Storage,5,2334.71,0.1,10506.19,6453.13,32.2,4020.86,High,Retail,0.3827,4053.06
+ORD10272,INV20272,2025-03-15,2025,3,Mar,11,Saturday,C1462,Customer 39,West,India,P524,Binders Model 25,Office Supplies,Binders,3,4010.35,0.0,12031.05,7353.51,59.96,4617.58,Medium,Retail,0.3838,4677.54
+ORD10273,INV20273,2025-01-25,2025,1,Jan,4,Saturday,C1867,Customer 376,West,UAE,P102,Binders Model 50,Office Supplies,Binders,3,3929.77,0.0,11789.31,8444.3,10.47,3334.54,Medium,Online,0.2828,3345.01
+ORD10274,INV20274,2025-01-03,2025,1,Jan,1,Friday,C1506,Customer 138,North,Bhutan,P539,OTC Model 14,Pharmaceuticals,OTC,1,3741.38,0.1,3367.24,2285.03,96.23,985.98,High,Online,0.2928,1082.21
+ORD10275,INV20275,2023-09-25,2023,9,Sep,39,Monday,C1047,Customer 51,Central,India,P880,Binders Model 4,Office Supplies,Binders,2,1562.74,0.15,2656.66,2541.0,99.67,15.99,Low,Distributor,0.006,115.66
+ORD10276,INV20276,2023-11-20,2023,11,Nov,47,Monday,C1931,Customer 68,West,UAE,P307,Laptops Model 45,Electronics,Laptops,5,2092.48,0.1,9416.16,7937.67,10.29,1468.2,Low,Distributor,0.1559,1478.49
+ORD10277,INV20277,2024-07-15,2024,7,Jul,29,Monday,C1680,Customer 333,North,Bhutan,P184,Writing Model 24,Office Supplies,Writing,3,2961.6,0.05,8440.56,6168.64,67.81,2204.11,Low,Retail,0.2611,2271.92
+ORD10278,INV20278,2024-04-24,2024,4,Apr,17,Wednesday,C1218,Customer 245,West,Oman,P197,Accessories Model 1,Electronics,Accessories,1,2829.35,0.0,2829.35,2032.03,64.31,733.01,Low,Online,0.2591,797.32
+ORD10279,INV20279,2025-06-30,2025,6,Jun,27,Monday,C1710,Customer 68,North,India,P980,Paper Model 28,Office Supplies,Paper,5,339.83,0.15,1444.28,1104.91,80.64,258.73,Low,Online,0.1791,339.37
+ORD10280,INV20280,2023-07-29,2023,7,Jul,30,Saturday,C1792,Customer 386,North,Nepal,P240,Writing Model 25,Office Supplies,Writing,4,1674.55,0.05,6363.29,4556.15,17.97,1789.17,Medium,Retail,0.2812,1807.14
+ORD10281,INV20281,2023-05-21,2023,5,May,20,Sunday,C1218,Customer 322,Central,India,P459,Tables Model 47,Furniture,Tables,6,3199.08,0.05,18234.76,15081.02,20.65,3133.09,High,Retail,0.1718,3153.74
+ORD10282,INV20282,2025-06-25,2025,6,Jun,26,Wednesday,C1603,Customer 374,South,India,P870,Phones Model 8,Electronics,Phones,4,963.16,0.15,3274.74,2537.62,40.11,697.01,Low,Online,0.2128,737.12
+ORD10283,INV20283,2023-10-14,2023,10,Oct,41,Saturday,C1614,Customer 370,South,Sri Lanka,P666,Phones Model 39,Electronics,Phones,1,169.75,0.2,135.8,135.72,34.58,-34.5,Low,Distributor,-0.2541,0.08
+ORD10284,INV20284,2023-02-24,2023,2,Feb,8,Friday,C1661,Customer 28,East,India,P501,Storage Model 19,Furniture,Storage,3,2176.8,0.05,6203.88,5301.5,85.77,816.61,Medium,Online,0.1316,902.38
+ORD10285,INV20285,2025-10-20,2025,10,Oct,43,Monday,C1396,Customer 292,Central,India,P424,Laptops Model 9,Electronics,Laptops,3,710.73,0.15,1812.36,1224.26,75.51,512.59,Low,Retail,0.2828,588.1
+ORD10286,INV20286,2025-08-22,2025,8,Aug,34,Friday,C1040,Customer 31,North,India,P368,Phones Model 14,Electronics,Phones,4,3070.61,0.15,10440.07,7254.09,77.62,3108.36,Medium,Retail,0.2977,3185.98
+ORD10287,INV20287,2025-04-30,2025,4,Apr,18,Wednesday,C1550,Customer 316,West,Oman,P755,OTC Model 35,Pharmaceuticals,OTC,2,332.42,0.05,631.6,421.94,33.55,176.11,Low,Online,0.2788,209.66
+ORD10288,INV20288,2024-02-21,2024,2,Feb,8,Wednesday,C1781,Customer 333,South,Maldives,P700,Writing Model 41,Office Supplies,Writing,3,3809.02,0.0,11427.06,7826.64,79.9,3520.52,Low,Online,0.3081,3600.42
+ORD10289,INV20289,2024-05-03,2024,5,May,18,Friday,C1626,Customer 312,North,India,P218,Laptops Model 30,Electronics,Laptops,1,216.39,0.0,216.39,123.08,91.58,1.73,Low,Retail,0.008,93.31
+ORD10290,INV20290,2023-12-26,2023,12,Dec,52,Tuesday,C1508,Customer 178,North,India,P111,Storage Model 11,Furniture,Storage,2,1769.35,0.2,2830.96,2901.56,11.96,-82.56,Medium,Retail,-0.0292,-70.6
+ORD10291,INV20291,2024-06-14,2024,6,Jun,24,Friday,C1750,Customer 61,South,Sri Lanka,P899,Storage Model 18,Furniture,Storage,4,2123.03,0.0,8492.12,5333.45,75.77,3082.9,Low,Online,0.363,3158.67
+ORD10292,INV20292,2023-05-11,2023,5,May,19,Thursday,C1368,Customer 29,East,Myanmar,P566,Laptops Model 33,Electronics,Laptops,3,2848.38,0.15,7263.37,5889.14,97.48,1276.75,High,Online,0.1758,1374.23
+ORD10293,INV20293,2023-11-19,2023,11,Nov,46,Sunday,C1002,Customer 23,East,India,P858,Phones Model 33,Electronics,Phones,2,798.67,0.0,1597.34,986.51,32.59,578.24,Low,Online,0.362,610.83
+ORD10294,INV20294,2025-02-23,2025,2,Feb,8,Sunday,C1758,Customer 336,South,India,P922,Accessories Model 46,Electronics,Accessories,3,4307.69,0.15,10984.61,9909.98,16.09,1058.54,Low,Online,0.0964,1074.63
+ORD10295,INV20295,2024-10-17,2024,10,Oct,42,Thursday,C1923,Customer 27,East,India,P614,Paper Model 44,Office Supplies,Paper,2,2318.59,0.05,4405.32,3224.74,24.92,1155.66,Low,Retail,0.2623,1180.58
+ORD10296,INV20296,2023-04-05,2023,4,Apr,14,Wednesday,C1335,Customer 45,West,India,P892,Prescription Model 20,Pharmaceuticals,Prescription,6,358.25,0.2,1719.6,1512.71,82.58,124.31,Medium,Online,0.0723,206.89
+ORD10297,INV20297,2024-08-20,2024,8,Aug,34,Tuesday,C1995,Customer 253,Central,India,P477,Tables Model 38,Furniture,Tables,1,3942.08,0.05,3744.98,2406.28,33.28,1305.42,Medium,Retail,0.3486,1338.7
+ORD10298,INV20298,2024-05-17,2024,5,May,20,Friday,C1354,Customer 326,South,India,P338,OTC Model 35,Pharmaceuticals,OTC,2,2620.96,0.0,5241.92,3205.25,89.0,1947.67,Critical,Online,0.3716,2036.67
+ORD10299,INV20299,2025-02-09,2025,2,Feb,6,Sunday,C1503,Customer 31,East,India,P343,Storage Model 27,Furniture,Storage,6,372.76,0.05,2124.73,1541.39,91.83,491.51,Medium,Online,0.2313,583.34
+ORD10300,INV20300,2024-04-19,2024,4,Apr,16,Friday,C1594,Customer 49,Central,India,P865,Writing Model 6,Office Supplies,Writing,2,3301.06,0.2,5281.7,5259.45,44.24,-21.99,Low,Retail,-0.0042,22.25
+ORD10301,INV20301,2023-06-03,2023,6,Jun,22,Saturday,C1298,Customer 134,Central,India,P233,Supplement Model 16,Pharmaceuticals,Supplement,4,3974.63,0.1,14308.67,11499.05,67.11,2742.51,High,Online,0.1917,2809.62
+ORD10302,INV20302,2024-10-30,2024,10,Oct,44,Wednesday,C1139,Customer 400,East,Bangladesh,P176,Paper Model 13,Office Supplies,Paper,4,3494.7,0.2,11183.04,11014.99,38.51,129.54,Low,Online,0.0116,168.05
+ORD10303,INV20303,2025-07-09,2025,7,Jul,28,Wednesday,C1987,Customer 395,West,UAE,P648,OTC Model 23,Pharmaceuticals,OTC,4,1049.98,0.05,3989.92,2542.07,90.46,1357.39,Medium,Online,0.3402,1447.85
+ORD10304,INV20304,2023-09-03,2023,9,Sep,35,Sunday,C1041,Customer 111,North,India,P813,Binders Model 39,Office Supplies,Binders,2,3095.73,0.1,5572.31,3560.33,89.42,1922.56,Low,Retail,0.345,2011.98
+ORD10305,INV20305,2024-12-29,2024,12,Dec,52,Sunday,C1839,Customer 90,West,Oman,P406,Accessories Model 17,Electronics,Accessories,7,4415.54,0.0,30908.78,20963.78,24.6,9920.4,Critical,Distributor,0.321,9945.0
+ORD10306,INV20306,2024-05-26,2024,5,May,21,Sunday,C1063,Customer 400,North,Nepal,P224,Phones Model 1,Electronics,Phones,1,2820.79,0.05,2679.75,1997.74,74.74,607.27,Low,Retail,0.2266,682.01
+ORD10307,INV20307,2025-02-01,2025,2,Feb,5,Saturday,C1202,Customer 331,North,Bhutan,P122,Paper Model 5,Office Supplies,Paper,3,4297.98,0.15,10959.85,10259.95,58.67,641.23,High,Online,0.0585,699.9
+ORD10308,INV20308,2024-11-10,2024,11,Nov,45,Sunday,C1443,Customer 371,North,India,P272,OTC Model 37,Pharmaceuticals,OTC,4,1821.1,0.15,6191.74,5086.43,84.54,1020.77,Medium,Online,0.1649,1105.31
+ORD10309,INV20309,2025-05-23,2025,5,May,21,Friday,C1456,Customer 77,South,Sri Lanka,P381,Chairs Model 18,Furniture,Chairs,2,4138.59,0.0,8277.18,4802.35,31.59,3443.24,Medium,Retail,0.416,3474.83
+ORD10310,INV20310,2024-08-27,2024,8,Aug,35,Tuesday,C1392,Customer 71,West,UAE,P189,OTC Model 18,Pharmaceuticals,OTC,1,2279.24,0.15,1937.35,1765.61,68.6,103.14,Low,Distributor,0.0532,171.74
+ORD10311,INV20311,2024-05-25,2024,5,May,21,Saturday,C1557,Customer 249,Central,India,P467,Supplement Model 31,Pharmaceuticals,Supplement,6,3397.08,0.1,18344.23,13198.29,71.77,5074.17,High,Retail,0.2766,5145.94
+ORD10312,INV20312,2025-03-06,2025,3,Mar,10,Thursday,C1030,Customer 399,East,India,P711,Laptops Model 15,Electronics,Laptops,1,4285.9,0.1,3857.31,2649.35,85.33,1122.63,Low,Distributor,0.291,1207.96
+ORD10313,INV20313,2025-01-02,2025,1,Jan,1,Thursday,C1246,Customer 137,Central,India,P353,Chairs Model 43,Furniture,Chairs,4,1102.59,0.2,3528.29,2469.61,37.36,1021.32,High,Distributor,0.2895,1058.68
+ORD10314,INV20314,2023-04-25,2023,4,Apr,17,Tuesday,C1180,Customer 122,South,Maldives,P959,Prescription Model 12,Pharmaceuticals,Prescription,8,2824.18,0.2,18074.75,13178.68,50.23,4845.84,Low,Retail,0.2681,4896.07
+ORD10315,INV20315,2025-01-04,2025,1,Jan,1,Saturday,C1576,Customer 97,Central,India,P677,Binders Model 10,Office Supplies,Binders,5,2141.61,0.15,9101.84,6024.43,76.59,3000.82,Medium,Online,0.3297,3077.41
+ORD10316,INV20316,2023-03-19,2023,3,Mar,11,Sunday,C1539,Customer 245,North,India,P324,Storage Model 2,Furniture,Storage,5,4034.29,0.0,20171.45,11203.26,96.65,8871.54,Low,Retail,0.4398,8968.19
+ORD10317,INV20317,2023-09-25,2023,9,Sep,39,Monday,C1151,Customer 301,East,Myanmar,P160,Tables Model 2,Furniture,Tables,4,607.27,0.05,2307.63,1848.79,58.66,400.18,High,Retail,0.1734,458.84
+ORD10318,INV20318,2025-01-17,2025,1,Jan,3,Friday,C1309,Customer 166,North,Nepal,P203,Supplement Model 22,Pharmaceuticals,Supplement,1,111.4,0.05,105.83,76.94,37.11,-8.22,Critical,Retail,-0.0777,28.89
+ORD10319,INV20319,2025-06-13,2025,6,Jun,24,Friday,C1710,Customer 315,West,Oman,P824,Paper Model 36,Office Supplies,Paper,3,288.31,0.1,778.44,709.99,86.7,-18.25,Low,Retail,-0.0234,68.45
+ORD10320,INV20320,2023-12-26,2023,12,Dec,52,Tuesday,C1001,Customer 360,West,UAE,P281,Paper Model 47,Office Supplies,Paper,4,1235.58,0.2,3953.86,3896.39,13.12,44.35,Low,Distributor,0.0112,57.47
+ORD10321,INV20321,2023-03-08,2023,3,Mar,10,Wednesday,C1579,Customer 54,South,Maldives,P326,Binders Model 41,Office Supplies,Binders,4,4165.3,0.15,14162.02,12157.57,20.34,1984.11,Low,Retail,0.1401,2004.45
+ORD10322,INV20322,2024-05-02,2024,5,May,18,Thursday,C1686,Customer 328,East,Bangladesh,P190,Storage Model 46,Furniture,Storage,3,4400.95,0.1,11882.56,9526.27,56.57,2299.72,Medium,Online,0.1935,2356.29
+ORD10323,INV20323,2024-05-26,2024,5,May,21,Sunday,C1049,Customer 198,North,Nepal,P837,Paper Model 1,Office Supplies,Paper,3,3029.52,0.15,7725.28,7432.23,49.9,243.15,Medium,Distributor,0.0315,293.05
+ORD10324,INV20324,2025-04-27,2025,4,Apr,17,Sunday,C1848,Customer 246,West,UAE,P484,Binders Model 7,Office Supplies,Binders,4,2586.2,0.2,8275.84,6013.1,44.61,2218.13,Medium,Retail,0.268,2262.74
+ORD10325,INV20325,2023-11-30,2023,11,Nov,48,Thursday,C1267,Customer 54,West,India,P120,Laptops Model 21,Electronics,Laptops,6,401.11,0.0,2406.66,1507.33,42.57,856.76,Low,Distributor,0.356,899.33
+ORD10326,INV20326,2023-11-26,2023,11,Nov,47,Sunday,C1914,Customer 248,North,Bhutan,P708,Laptops Model 40,Electronics,Laptops,1,743.12,0.0,743.12,470.43,97.44,175.25,Medium,Retail,0.2358,272.69
+ORD10327,INV20327,2025-06-08,2025,6,Jun,23,Sunday,C1419,Customer 357,South,India,P310,Laptops Model 13,Electronics,Laptops,2,3073.36,0.2,4917.38,3898.28,28.63,990.47,Medium,Retail,0.2014,1019.1
+ORD10328,INV20328,2024-06-27,2024,6,Jun,26,Thursday,C1585,Customer 282,East,Bangladesh,P150,Chairs Model 26,Furniture,Chairs,1,87.94,0.15,74.75,54.15,13.3,7.3,Low,Online,0.0977,20.6
+ORD10329,INV20329,2025-05-25,2025,5,May,21,Sunday,C1211,Customer 88,North,Nepal,P199,OTC Model 2,Pharmaceuticals,OTC,1,4022.8,0.1,3620.52,2902.91,56.14,661.47,Critical,Online,0.1827,717.61
+ORD10330,INV20330,2023-08-25,2023,8,Aug,34,Friday,C1093,Customer 329,East,Bangladesh,P776,Prescription Model 17,Pharmaceuticals,Prescription,3,3104.48,0.2,7450.75,5440.46,41.07,1969.22,Low,Online,0.2643,2010.29
+ORD10331,INV20331,2025-02-20,2025,2,Feb,8,Thursday,C1476,Customer 135,East,India,P369,OTC Model 29,Pharmaceuticals,OTC,5,1409.92,0.05,6697.12,4711.76,47.96,1937.4,High,Retail,0.2893,1985.36
+ORD10332,INV20332,2023-11-06,2023,11,Nov,45,Monday,C1603,Customer 117,North,India,P523,Binders Model 49,Office Supplies,Binders,5,4777.55,0.2,19110.2,19023.24,10.14,76.82,Low,Online,0.004,86.96
+ORD10333,INV20333,2025-05-07,2025,5,May,19,Wednesday,C1404,Customer 366,Central,India,P406,Tables Model 6,Furniture,Tables,1,1325.16,0.0,1325.16,752.5,64.34,508.32,Medium,Distributor,0.3836,572.66
+ORD10334,INV20334,2023-10-29,2023,10,Oct,43,Sunday,C1129,Customer 22,North,Nepal,P316,Chairs Model 13,Furniture,Chairs,2,2308.37,0.15,3924.23,3050.35,20.89,852.99,Low,Retail,0.2174,873.88
+ORD10335,INV20335,2024-02-18,2024,2,Feb,7,Sunday,C1089,Customer 199,South,Maldives,P844,Writing Model 5,Office Supplies,Writing,2,446.89,0.2,715.02,586.71,94.76,33.55,Low,Online,0.0469,128.31
+ORD10336,INV20336,2024-07-19,2024,7,Jul,29,Friday,C1535,Customer 215,Central,India,P738,Accessories Model 38,Electronics,Accessories,4,3198.68,0.0,12794.72,10542.67,65.13,2186.92,Medium,Online,0.1709,2252.05
+ORD10337,INV20337,2023-07-25,2023,7,Jul,30,Tuesday,C1901,Customer 177,North,Bhutan,P988,Laptops Model 35,Electronics,Laptops,4,2693.14,0.15,9156.68,6384.26,11.05,2761.37,Low,Retail,0.3016,2772.42
+ORD10338,INV20338,2025-08-26,2025,8,Aug,35,Tuesday,C1623,Customer 349,North,India,P247,Writing Model 40,Office Supplies,Writing,3,266.51,0.15,679.6,469.24,60.28,150.08,Low,Distributor,0.2208,210.36
+ORD10339,INV20339,2024-11-09,2024,11,Nov,45,Saturday,C1345,Customer 156,South,India,P481,Prescription Model 2,Pharmaceuticals,Prescription,5,3381.18,0.1,15215.31,10694.91,37.57,4482.83,Low,Online,0.2946,4520.4
+ORD10340,INV20340,2023-07-21,2023,7,Jul,29,Friday,C1845,Customer 165,South,India,P553,Binders Model 50,Office Supplies,Binders,7,2931.88,0.1,18470.84,13573.03,64.1,4833.71,Medium,Retail,0.2617,4897.81
+ORD10341,INV20341,2023-07-02,2023,7,Jul,26,Sunday,C1777,Customer 265,South,Sri Lanka,P858,Tables Model 32,Furniture,Tables,3,2181.12,0.1,5889.02,3878.76,90.11,1920.15,High,Retail,0.3261,2010.26
+ORD10342,INV20342,2023-11-22,2023,11,Nov,47,Wednesday,C1900,Customer 292,North,Nepal,P899,OTC Model 34,Pharmaceuticals,OTC,2,3246.82,0.0,6493.64,4812.25,40.65,1640.74,Low,Distributor,0.2527,1681.39
+ORD10343,INV20343,2024-02-16,2024,2,Feb,7,Friday,C1721,Customer 102,North,India,P151,Laptops Model 24,Electronics,Laptops,1,1590.53,0.1,1431.48,1197.89,64.52,169.07,Low,Online,0.1181,233.59
+ORD10344,INV20344,2025-03-23,2025,3,Mar,12,Sunday,C1608,Customer 229,North,Bhutan,P481,Phones Model 32,Electronics,Phones,3,3456.96,0.05,9852.34,6141.28,53.7,3657.36,Critical,Online,0.3712,3711.06
+ORD10345,INV20345,2024-12-17,2024,12,Dec,51,Tuesday,C1092,Customer 146,East,India,P950,Binders Model 45,Office Supplies,Binders,1,2552.0,0.0,2552.0,2141.65,44.58,365.77,Low,Online,0.1433,410.35
+ORD10346,INV20346,2024-03-14,2024,3,Mar,11,Thursday,C1667,Customer 210,South,Maldives,P311,Storage Model 18,Furniture,Storage,1,203.23,0.2,162.58,135.43,24.4,2.75,Low,Retail,0.0169,27.15
+ORD10347,INV20347,2023-01-19,2023,1,Jan,3,Thursday,C1229,Customer 130,West,India,P920,Storage Model 1,Furniture,Storage,1,3793.26,0.2,3034.61,2608.08,36.03,390.5,High,Online,0.1287,426.53
+ORD10348,INV20348,2024-07-17,2024,7,Jul,29,Wednesday,C1477,Customer 155,West,UAE,P358,Writing Model 14,Office Supplies,Writing,3,4447.6,0.2,10674.24,9752.02,84.4,837.82,High,Online,0.0785,922.22
+ORD10349,INV20349,2023-07-29,2023,7,Jul,30,Saturday,C1623,Customer 145,North,Bhutan,P762,Binders Model 39,Office Supplies,Binders,4,1734.92,0.1,6245.71,4943.98,23.87,1277.86,Medium,Online,0.2046,1301.73
+ORD10350,INV20350,2024-11-19,2024,11,Nov,47,Tuesday,C1728,Customer 334,East,Myanmar,P367,Writing Model 42,Office Supplies,Writing,5,1333.71,0.1,6001.7,4057.06,15.19,1929.45,Low,Retail,0.3215,1944.64
+ORD10351,INV20351,2024-05-07,2024,5,May,19,Tuesday,C1143,Customer 370,North,Bhutan,P427,Supplement Model 44,Pharmaceuticals,Supplement,4,2923.31,0.0,11693.24,6919.58,49.96,4723.7,Medium,Distributor,0.404,4773.66
+ORD10352,INV20352,2024-06-15,2024,6,Jun,24,Saturday,C1725,Customer 293,West,UAE,P136,Supplement Model 38,Pharmaceuticals,Supplement,6,3122.27,0.05,17796.94,11434.88,45.56,6316.5,Low,Retail,0.3549,6362.06
+ORD10353,INV20353,2025-09-01,2025,9,Sep,36,Monday,C1897,Customer 286,East,Myanmar,P960,Paper Model 43,Office Supplies,Paper,1,2403.95,0.05,2283.75,1713.79,30.5,539.46,Low,Online,0.2362,569.96
+ORD10354,INV20354,2024-06-13,2024,6,Jun,24,Thursday,C1363,Customer 115,Central,India,P191,Binders Model 15,Office Supplies,Binders,5,3963.02,0.1,17833.59,11640.31,81.48,6111.8,Medium,Distributor,0.3427,6193.28
+ORD10355,INV20355,2025-01-31,2025,1,Jan,5,Friday,C1481,Customer 28,East,Myanmar,P971,Writing Model 8,Office Supplies,Writing,3,2340.24,0.2,5616.58,5927.57,53.51,-364.5,Medium,Retail,-0.0649,-310.99
+ORD10356,INV20356,2025-08-25,2025,8,Aug,35,Monday,C1305,Customer 212,South,Maldives,P490,Accessories Model 34,Electronics,Accessories,4,3820.9,0.0,15283.6,10178.3,56.01,5049.29,High,Online,0.3304,5105.3
+ORD10357,INV20357,2024-02-15,2024,2,Feb,7,Thursday,C1184,Customer 399,East,Bangladesh,P423,OTC Model 46,Pharmaceuticals,OTC,7,4782.43,0.0,33477.01,20425.74,19.83,13031.44,Medium,Retail,0.3893,13051.27
+ORD10358,INV20358,2023-12-29,2023,12,Dec,52,Friday,C1214,Customer 390,East,Myanmar,P562,Phones Model 18,Electronics,Phones,4,4423.15,0.05,16807.97,12110.51,55.94,4641.52,Medium,Online,0.2761,4697.46
+ORD10359,INV20359,2023-06-30,2023,6,Jun,26,Friday,C1439,Customer 245,South,Maldives,P539,Supplement Model 26,Pharmaceuticals,Supplement,2,2410.38,0.15,4097.65,3646.02,75.04,376.59,Low,Retail,0.0919,451.63
+ORD10360,INV20360,2025-02-03,2025,2,Feb,6,Monday,C1641,Customer 376,North,Nepal,P792,Chairs Model 1,Furniture,Chairs,2,1825.64,0.05,3468.72,2889.37,35.09,544.26,Low,Distributor,0.1569,579.35
+ORD10361,INV20361,2024-10-01,2024,10,Oct,40,Tuesday,C1171,Customer 34,South,India,P702,Supplement Model 20,Pharmaceuticals,Supplement,2,4989.21,0.0,9978.42,7514.21,84.56,2379.65,Low,Online,0.2385,2464.21
+ORD10362,INV20362,2024-11-22,2024,11,Nov,47,Friday,C1768,Customer 97,West,Oman,P601,Tables Model 23,Furniture,Tables,1,3702.45,0.05,3517.33,2962.86,76.64,477.83,High,Distributor,0.1359,554.47
+ORD10363,INV20363,2025-04-06,2025,4,Apr,14,Sunday,C1751,Customer 12,North,India,P234,Storage Model 14,Furniture,Storage,4,4237.31,0.2,13559.39,12442.12,17.97,1099.3,Medium,Online,0.0811,1117.27
+ORD10364,INV20364,2023-03-18,2023,3,Mar,11,Saturday,C1608,Customer 25,West,Oman,P738,Binders Model 4,Office Supplies,Binders,1,2067.34,0.0,2067.34,1389.53,15.94,661.87,Medium,Online,0.3202,677.81
+ORD10365,INV20365,2023-08-26,2023,8,Aug,34,Saturday,C1485,Customer 360,West,UAE,P660,OTC Model 17,Pharmaceuticals,OTC,1,4050.76,0.05,3848.22,3379.58,16.51,452.13,Low,Retail,0.1175,468.64
+ORD10366,INV20366,2023-01-20,2023,1,Jan,3,Friday,C1637,Customer 311,East,Bangladesh,P632,Accessories Model 18,Electronics,Accessories,3,2528.09,0.05,7205.06,5979.09,73.64,1152.33,Medium,Distributor,0.1599,1225.97
+ORD10367,INV20367,2023-08-30,2023,8,Aug,35,Wednesday,C1204,Customer 399,East,India,P303,Laptops Model 39,Electronics,Laptops,1,2044.22,0.1,1839.8,1305.41,30.91,503.48,High,Distributor,0.2737,534.39
+ORD10368,INV20368,2025-01-03,2025,1,Jan,1,Friday,C1932,Customer 107,West,UAE,P661,Chairs Model 32,Furniture,Chairs,5,2408.36,0.15,10235.53,7439.53,67.64,2728.36,Low,Online,0.2666,2796.0
+ORD10369,INV20369,2023-07-02,2023,7,Jul,26,Sunday,C1523,Customer 39,North,Bhutan,P192,OTC Model 50,Pharmaceuticals,OTC,4,4448.86,0.0,17795.44,12473.27,50.44,5271.73,High,Retail,0.2962,5322.17
+ORD10370,INV20370,2025-07-24,2025,7,Jul,30,Thursday,C1895,Customer 21,East,Bangladesh,P202,OTC Model 12,Pharmaceuticals,OTC,2,3428.96,0.1,6172.13,4269.6,74.26,1828.27,Low,Retail,0.2962,1902.53
+ORD10371,INV20371,2025-05-22,2025,5,May,21,Thursday,C1679,Customer 332,North,India,P972,Phones Model 9,Electronics,Phones,4,3887.96,0.05,14774.25,9819.79,54.7,4899.76,Low,Distributor,0.3316,4954.46
+ORD10372,INV20372,2024-07-03,2024,7,Jul,27,Wednesday,C1409,Customer 234,North,Nepal,P216,Paper Model 26,Office Supplies,Paper,1,3166.31,0.1,2849.68,1793.08,77.38,979.22,High,Retail,0.3436,1056.6
+ORD10373,INV20373,2025-09-06,2025,9,Sep,36,Saturday,C1743,Customer 31,West,Oman,P235,Chairs Model 45,Furniture,Chairs,1,2580.09,0.05,2451.09,1455.31,34.86,960.92,Low,Distributor,0.392,995.78
+ORD10374,INV20374,2025-09-15,2025,9,Sep,38,Monday,C1367,Customer 314,Central,India,P488,Storage Model 50,Furniture,Storage,1,4204.73,0.0,4204.73,2317.42,32.21,1855.1,High,Distributor,0.4412,1887.31
+ORD10375,INV20375,2023-09-25,2023,9,Sep,39,Monday,C1064,Customer 134,West,UAE,P551,Laptops Model 3,Electronics,Laptops,2,1833.16,0.1,3299.69,2313.88,85.84,899.97,Low,Distributor,0.2727,985.81
+ORD10376,INV20376,2024-04-03,2024,4,Apr,14,Wednesday,C1254,Customer 247,East,Myanmar,P777,Laptops Model 47,Electronics,Laptops,5,4822.19,0.1,21699.85,13906.88,71.83,7721.14,Medium,Retail,0.3558,7792.97
+ORD10377,INV20377,2023-11-01,2023,11,Nov,44,Wednesday,C1869,Customer 241,Central,India,P260,Accessories Model 33,Electronics,Accessories,4,876.42,0.15,2979.83,2678.04,69.97,231.82,High,Online,0.0778,301.79
+ORD10378,INV20378,2025-10-03,2025,10,Oct,40,Friday,C1228,Customer 282,East,India,P151,Writing Model 33,Office Supplies,Writing,5,3920.03,0.15,16660.13,14567.71,14.34,2078.08,Medium,Online,0.1247,2092.42
+ORD10379,INV20379,2025-07-29,2025,7,Jul,31,Tuesday,C1457,Customer 162,West,Oman,P977,OTC Model 32,Pharmaceuticals,OTC,4,1083.97,0.0,4335.88,2864.34,43.28,1428.26,Critical,Retail,0.3294,1471.54
+ORD10380,INV20380,2023-02-06,2023,2,Feb,6,Monday,C1000,Customer 47,North,Nepal,P670,OTC Model 36,Pharmaceuticals,OTC,1,2111.7,0.2,1689.36,1682.29,86.53,-79.46,Critical,Retail,-0.047,7.07
+ORD10381,INV20381,2024-02-28,2024,2,Feb,9,Wednesday,C1864,Customer 233,West,UAE,P936,Paper Model 15,Office Supplies,Paper,4,3405.18,0.1,12258.65,9974.8,36.58,2247.27,Medium,Retail,0.1833,2283.85
+ORD10382,INV20382,2025-08-26,2025,8,Aug,35,Tuesday,C1674,Customer 114,East,Myanmar,P199,OTC Model 49,Pharmaceuticals,OTC,3,3241.92,0.0,9725.76,6502.05,74.19,3149.52,Low,Retail,0.3238,3223.71
+ORD10383,INV20383,2024-08-20,2024,8,Aug,34,Tuesday,C1143,Customer 368,Central,India,P268,Phones Model 32,Electronics,Phones,3,337.56,0.15,860.78,590.85,56.43,213.5,Low,Retail,0.248,269.93
+ORD10384,INV20384,2024-01-20,2024,1,Jan,3,Saturday,C1733,Customer 174,North,Nepal,P944,Tables Model 13,Furniture,Tables,2,1926.52,0.0,3853.04,2509.11,11.74,1332.19,High,Online,0.3458,1343.93
+ORD10385,INV20385,2023-09-10,2023,9,Sep,36,Sunday,C1753,Customer 25,West,UAE,P104,Tables Model 34,Furniture,Tables,2,2051.23,0.2,3281.97,2909.8,63.56,308.61,High,Retail,0.094,372.17
+ORD10386,INV20386,2025-09-16,2025,9,Sep,38,Tuesday,C1106,Customer 199,Central,India,P934,Storage Model 9,Furniture,Storage,1,2347.27,0.2,1877.82,1969.48,56.71,-148.37,Medium,Online,-0.079,-91.66
+ORD10387,INV20387,2025-02-26,2025,2,Feb,9,Wednesday,C1993,Customer 151,West,Oman,P507,Tables Model 22,Furniture,Tables,6,133.89,0.15,682.84,627.45,82.64,-27.25,High,Online,-0.0399,55.39
+ORD10388,INV20388,2024-09-04,2024,9,Sep,36,Wednesday,C1731,Customer 149,Central,India,P314,Chairs Model 40,Furniture,Chairs,1,136.88,0.1,123.19,87.33,79.58,-43.72,High,Online,-0.3549,35.86
+ORD10389,INV20389,2023-12-31,2023,12,Dec,52,Sunday,C1596,Customer 293,Central,India,P675,Laptops Model 31,Electronics,Laptops,3,1534.01,0.15,3911.73,3423.62,97.68,390.43,Medium,Distributor,0.0998,488.11
+ORD10390,INV20390,2024-08-08,2024,8,Aug,32,Thursday,C1054,Customer 344,West,India,P490,Phones Model 10,Electronics,Phones,1,4497.87,0.0,4497.87,3530.65,80.23,886.99,Low,Retail,0.1972,967.22
+ORD10391,INV20391,2023-11-26,2023,11,Nov,47,Sunday,C1707,Customer 152,East,Myanmar,P959,Paper Model 4,Office Supplies,Paper,3,1179.77,0.05,3362.34,2208.46,53.57,1100.31,High,Online,0.3272,1153.88
+ORD10392,INV20392,2025-07-15,2025,7,Jul,29,Tuesday,C1398,Customer 122,North,Bhutan,P762,Storage Model 36,Furniture,Storage,2,4791.06,0.2,7665.7,7980.16,80.67,-395.13,High,Retail,-0.0515,-314.46
+ORD10393,INV20393,2024-08-12,2024,8,Aug,33,Monday,C1320,Customer 283,North,Nepal,P907,Prescription Model 44,Pharmaceuticals,Prescription,3,1860.12,0.0,5580.36,3446.51,27.62,2106.23,Low,Online,0.3774,2133.85
+ORD10394,INV20394,2025-06-26,2025,6,Jun,26,Thursday,C1617,Customer 101,South,Maldives,P659,Binders Model 48,Office Supplies,Binders,3,777.47,0.05,2215.79,1850.39,67.24,298.16,Low,Online,0.1346,365.4
+ORD10395,INV20395,2023-06-02,2023,6,Jun,22,Friday,C1285,Customer 285,South,India,P141,Laptops Model 28,Electronics,Laptops,3,4591.55,0.1,12397.19,8776.54,52.3,3568.35,Low,Retail,0.2878,3620.65
+ORD10396,INV20396,2024-06-06,2024,6,Jun,23,Thursday,C1157,Customer 166,North,Nepal,P258,Supplement Model 3,Pharmaceuticals,Supplement,2,779.15,0.2,1246.64,860.73,66.78,319.13,Low,Distributor,0.256,385.91
+ORD10397,INV20397,2024-09-08,2024,9,Sep,36,Sunday,C1325,Customer 270,West,Oman,P902,Paper Model 46,Office Supplies,Paper,3,1247.37,0.05,3555.0,2620.15,71.17,863.68,Critical,Retail,0.2429,934.85
+ORD10398,INV20398,2023-11-23,2023,11,Nov,47,Thursday,C1904,Customer 110,West,Oman,P457,OTC Model 15,Pharmaceuticals,OTC,1,4044.48,0.1,3640.03,2782.2,59.19,798.64,Low,Online,0.2194,857.83
+ORD10399,INV20399,2025-08-30,2025,8,Aug,35,Saturday,C1246,Customer 329,Central,India,P454,Accessories Model 29,Electronics,Accessories,1,870.46,0.2,696.37,595.1,28.83,72.44,High,Online,0.104,101.27
+ORD10400,INV20400,2023-03-23,2023,3,Mar,12,Thursday,C1741,Customer 145,East,Bangladesh,P362,Laptops Model 35,Electronics,Laptops,1,4906.9,0.0,4906.9,3866.36,86.84,953.7,High,Retail,0.1944,1040.54
+ORD10401,INV20401,2025-02-06,2025,2,Feb,6,Thursday,C1197,Customer 165,Central,India,P403,OTC Model 42,Pharmaceuticals,OTC,2,4759.58,0.2,7615.33,8076.49,74.06,-535.22,Low,Online,-0.0703,-461.16
+ORD10402,INV20402,2023-01-16,2023,1,Jan,3,Monday,C1210,Customer 276,North,India,P534,Storage Model 7,Furniture,Storage,4,411.75,0.15,1399.95,1213.35,98.31,88.29,Medium,Distributor,0.0631,186.6
+ORD10403,INV20403,2023-11-11,2023,11,Nov,45,Saturday,C1055,Customer 92,North,Nepal,P189,Paper Model 5,Office Supplies,Paper,7,850.27,0.1,5356.7,4125.08,74.65,1156.97,Medium,Retail,0.216,1231.62
+ORD10404,INV20404,2024-04-11,2024,4,Apr,15,Thursday,C1443,Customer 162,East,Bangladesh,P745,Prescription Model 26,Pharmaceuticals,Prescription,3,2847.17,0.0,8541.51,6675.09,54.9,1811.52,Low,Online,0.2121,1866.42
+ORD10405,INV20405,2023-01-13,2023,1,Jan,2,Friday,C1366,Customer 258,Central,India,P968,Accessories Model 5,Electronics,Accessories,1,94.74,0.0,94.74,62.25,93.36,-60.87,Low,Retail,-0.6425,32.49
+ORD10406,INV20406,2023-06-27,2023,6,Jun,26,Tuesday,C1031,Customer 243,East,Bangladesh,P941,Prescription Model 43,Pharmaceuticals,Prescription,2,1642.27,0.05,3120.31,2642.13,75.6,402.58,Medium,Online,0.129,478.18
+ORD10407,INV20407,2025-03-11,2025,3,Mar,11,Tuesday,C1663,Customer 192,Central,India,P793,Tables Model 47,Furniture,Tables,1,194.39,0.0,194.39,134.96,69.62,-10.19,Medium,Retail,-0.0524,59.43
+ORD10408,INV20408,2023-09-10,2023,9,Sep,36,Sunday,C1312,Customer 108,North,India,P660,Supplement Model 6,Pharmaceuticals,Supplement,1,2019.29,0.1,1817.36,1667.65,99.39,50.32,Low,Distributor,0.0277,149.71
+ORD10409,INV20409,2023-10-19,2023,10,Oct,42,Thursday,C1198,Customer 59,South,India,P954,Storage Model 17,Furniture,Storage,1,3816.99,0.05,3626.14,2525.0,45.32,1055.82,Medium,Retail,0.2912,1101.14
+ORD10410,INV20410,2023-04-22,2023,4,Apr,16,Saturday,C1256,Customer 51,Central,India,P787,Laptops Model 5,Electronics,Laptops,6,2842.17,0.05,16200.37,11213.61,69.1,4917.66,Medium,Online,0.3036,4986.76
+ORD10411,INV20411,2024-11-08,2024,11,Nov,45,Friday,C1071,Customer 100,East,India,P391,Chairs Model 40,Furniture,Chairs,1,4595.28,0.1,4135.75,2667.75,55.54,1412.46,Medium,Online,0.3415,1468.0
+ORD10412,INV20412,2024-09-18,2024,9,Sep,38,Wednesday,C1004,Customer 161,Central,India,P538,Writing Model 11,Office Supplies,Writing,1,228.29,0.05,216.88,137.56,88.01,-8.69,High,Retail,-0.0401,79.32
+ORD10413,INV20413,2025-06-12,2025,6,Jun,24,Thursday,C1898,Customer 246,East,Bangladesh,P850,Storage Model 22,Furniture,Storage,4,2607.66,0.15,8866.04,8111.21,35.42,719.41,Medium,Retail,0.0811,754.83
+ORD10414,INV20414,2025-09-24,2025,9,Sep,39,Wednesday,C1861,Customer 144,Central,India,P721,Storage Model 6,Furniture,Storage,6,2512.82,0.05,14323.07,9218.09,63.2,5041.78,High,Online,0.352,5104.98
+ORD10415,INV20415,2023-06-06,2023,6,Jun,23,Tuesday,C1787,Customer 303,North,India,P692,Accessories Model 26,Electronics,Accessories,3,402.23,0.05,1146.36,688.66,94.67,363.03,High,Retail,0.3167,457.7
+ORD10416,INV20416,2025-08-24,2025,8,Aug,34,Sunday,C1750,Customer 149,South,Sri Lanka,P890,OTC Model 38,Pharmaceuticals,OTC,4,3483.41,0.05,13236.96,10886.87,68.92,2281.17,Medium,Retail,0.1723,2350.09
+ORD10417,INV20417,2025-03-23,2025,3,Mar,12,Sunday,C1700,Customer 85,East,Myanmar,P344,Accessories Model 40,Electronics,Accessories,3,2154.88,0.2,5171.71,3628.42,21.51,1521.78,Low,Online,0.2943,1543.29
+ORD10418,INV20418,2023-10-27,2023,10,Oct,43,Friday,C1237,Customer 33,West,UAE,P879,Phones Model 32,Electronics,Phones,1,2112.0,0.1,1900.8,1492.66,14.92,393.22,Low,Online,0.2069,408.14
+ORD10419,INV20419,2024-02-28,2024,2,Feb,9,Wednesday,C1040,Customer 333,Central,India,P565,Prescription Model 3,Pharmaceuticals,Prescription,3,1190.56,0.1,3214.51,1966.0,75.64,1172.87,Low,Distributor,0.3649,1248.51
+ORD10420,INV20420,2024-07-14,2024,7,Jul,28,Sunday,C1374,Customer 301,East,Myanmar,P769,Tables Model 25,Furniture,Tables,5,1549.51,0.0,7747.55,5017.22,74.14,2656.19,Medium,Online,0.3428,2730.33
+ORD10421,INV20421,2024-04-01,2024,4,Apr,14,Monday,C1908,Customer 310,Central,India,P598,Writing Model 31,Office Supplies,Writing,3,4043.13,0.0,12129.39,10254.88,77.88,1796.63,Medium,Online,0.1481,1874.51
+ORD10422,INV20422,2023-12-06,2023,12,Dec,49,Wednesday,C1161,Customer 186,South,India,P253,Paper Model 12,Office Supplies,Paper,3,2745.26,0.2,6588.62,6282.22,25.06,281.34,Medium,Online,0.0427,306.4
+ORD10423,INV20423,2024-04-16,2024,4,Apr,16,Tuesday,C1490,Customer 108,West,UAE,P791,Laptops Model 31,Electronics,Laptops,3,1363.36,0.2,3272.06,2987.67,36.69,247.7,Low,Retail,0.0757,284.39
+ORD10424,INV20424,2023-02-15,2023,2,Feb,7,Wednesday,C1137,Customer 323,South,India,P706,Storage Model 11,Furniture,Storage,3,2569.01,0.2,6165.62,5092.68,93.96,978.98,Low,Retail,0.1588,1072.94
+ORD10425,INV20425,2023-04-25,2023,4,Apr,17,Tuesday,C1992,Customer 289,South,Sri Lanka,P515,Storage Model 39,Furniture,Storage,8,4045.0,0.0,32360.0,19693.4,41.08,12625.52,High,Retail,0.3902,12666.6
+ORD10426,INV20426,2024-08-03,2024,8,Aug,31,Saturday,C1174,Customer 113,North,India,P582,Supplement Model 31,Pharmaceuticals,Supplement,7,1933.56,0.15,11504.68,8106.21,80.76,3317.71,Medium,Retail,0.2884,3398.47
+ORD10427,INV20427,2024-01-08,2024,1,Jan,2,Monday,C1944,Customer 233,Central,India,P802,Storage Model 22,Furniture,Storage,2,4203.04,0.2,6724.86,4652.14,73.33,1999.39,Medium,Online,0.2973,2072.72
+ORD10428,INV20428,2025-02-28,2025,2,Feb,9,Friday,C1700,Customer 215,South,India,P635,Phones Model 33,Electronics,Phones,5,4836.82,0.05,22974.89,13676.12,55.43,9243.34,Medium,Online,0.4023,9298.77
+ORD10429,INV20429,2023-03-21,2023,3,Mar,12,Tuesday,C1923,Customer 309,Central,India,P775,Laptops Model 9,Electronics,Laptops,4,2012.94,0.2,6441.41,4746.63,87.88,1606.9,High,Distributor,0.2495,1694.78
+ORD10430,INV20430,2025-06-02,2025,6,Jun,23,Monday,C1439,Customer 118,Central,India,P814,Paper Model 34,Office Supplies,Paper,1,1485.73,0.15,1262.87,1205.56,70.54,-13.23,High,Online,-0.0105,57.31
+ORD10431,INV20431,2023-07-20,2023,7,Jul,29,Thursday,C1931,Customer 43,West,India,P884,Writing Model 15,Office Supplies,Writing,6,3386.4,0.1,18286.56,11491.09,59.4,6736.07,Medium,Retail,0.3684,6795.47
+ORD10432,INV20432,2024-06-11,2024,6,Jun,24,Tuesday,C1532,Customer 4,South,India,P635,Accessories Model 8,Electronics,Accessories,2,3125.4,0.15,5313.18,4064.36,75.94,1172.88,Medium,Retail,0.2207,1248.82
+ORD10433,INV20433,2024-10-08,2024,10,Oct,41,Tuesday,C1599,Customer 130,West,UAE,P536,Phones Model 42,Electronics,Phones,1,3929.61,0.1,3536.65,2498.16,48.95,989.54,High,Online,0.2798,1038.49
+ORD10434,INV20434,2025-01-18,2025,1,Jan,3,Saturday,C1802,Customer 286,Central,India,P523,OTC Model 36,Pharmaceuticals,OTC,2,1900.91,0.15,3231.55,3168.19,67.76,-4.4,Low,Retail,-0.0014,63.36
+ORD10435,INV20435,2025-09-17,2025,9,Sep,38,Wednesday,C1141,Customer 338,East,Bangladesh,P507,Binders Model 48,Office Supplies,Binders,3,3767.15,0.0,11301.45,6559.5,35.01,4706.94,Medium,Online,0.4165,4741.95
+ORD10436,INV20436,2023-11-28,2023,11,Nov,48,Tuesday,C1628,Customer 357,North,India,P920,Prescription Model 36,Pharmaceuticals,Prescription,3,2617.57,0.0,7852.71,4741.54,97.36,3013.81,Low,Distributor,0.3838,3111.17
+ORD10437,INV20437,2023-01-11,2023,1,Jan,2,Wednesday,C1065,Customer 135,North,India,P545,Supplement Model 6,Pharmaceuticals,Supplement,1,3702.53,0.05,3517.4,2818.98,48.05,650.37,Low,Retail,0.1849,698.42
+ORD10438,INV20438,2025-02-26,2025,2,Feb,9,Wednesday,C1968,Customer 397,West,Oman,P711,Binders Model 4,Office Supplies,Binders,2,1066.4,0.05,2026.16,1482.11,34.17,509.88,Medium,Online,0.2516,544.05
+ORD10439,INV20439,2024-02-18,2024,2,Feb,7,Sunday,C1522,Customer 265,Central,India,P902,Chairs Model 39,Furniture,Chairs,4,424.14,0.05,1611.73,1417.35,36.76,157.62,Medium,Retail,0.0978,194.38
+ORD10440,INV20440,2025-01-06,2025,1,Jan,2,Monday,C1798,Customer 205,South,Maldives,P188,Phones Model 18,Electronics,Phones,2,3260.1,0.1,5868.18,4109.16,11.36,1747.66,Medium,Online,0.2978,1759.02
+ORD10441,INV20441,2024-02-15,2024,2,Feb,7,Thursday,C1743,Customer 287,Central,India,P662,Phones Model 19,Electronics,Phones,5,1391.93,0.2,5567.72,5075.68,87.95,404.09,Low,Distributor,0.0726,492.04
+ORD10442,INV20442,2024-07-20,2024,7,Jul,29,Saturday,C1004,Customer 134,South,Maldives,P513,Tables Model 37,Furniture,Tables,2,4726.44,0.05,8980.24,7287.8,89.47,1602.97,Medium,Online,0.1785,1692.44
+ORD10443,INV20443,2023-05-29,2023,5,May,22,Monday,C1979,Customer 132,Central,India,P922,Paper Model 33,Office Supplies,Paper,4,126.2,0.2,403.84,365.92,32.78,5.14,High,Retail,0.0127,37.92
+ORD10444,INV20444,2025-06-25,2025,6,Jun,26,Wednesday,C1984,Customer 398,West,Oman,P875,OTC Model 22,Pharmaceuticals,OTC,4,3378.68,0.15,11487.51,11394.29,19.17,74.05,Medium,Distributor,0.0064,93.22
+ORD10445,INV20445,2023-02-26,2023,2,Feb,8,Sunday,C1807,Customer 113,West,India,P491,Paper Model 41,Office Supplies,Paper,1,2196.23,0.05,2086.42,1268.95,77.35,740.12,High,Online,0.3547,817.47
+ORD10446,INV20446,2024-12-24,2024,12,Dec,52,Tuesday,C1408,Customer 345,Central,India,P394,Paper Model 6,Office Supplies,Paper,3,3631.07,0.1,9803.89,6020.85,63.05,3719.99,Low,Distributor,0.3794,3783.04
+ORD10447,INV20447,2025-09-02,2025,9,Sep,36,Tuesday,C1969,Customer 383,East,Bangladesh,P375,Storage Model 12,Furniture,Storage,4,1036.39,0.05,3938.28,3371.34,76.49,490.45,Medium,Online,0.1245,566.94
+ORD10448,INV20448,2024-05-10,2024,5,May,19,Friday,C1856,Customer 317,East,India,P954,Chairs Model 16,Furniture,Chairs,1,1279.46,0.1,1151.51,786.0,34.37,331.14,Low,Online,0.2876,365.51
+ORD10449,INV20449,2023-06-10,2023,6,Jun,23,Saturday,C1380,Customer 318,West,Oman,P143,Accessories Model 31,Electronics,Accessories,1,2321.76,0.1,2089.58,1787.34,64.61,237.63,Medium,Distributor,0.1137,302.24
+ORD10450,INV20450,2024-07-16,2024,7,Jul,29,Tuesday,C1590,Customer 66,West,India,P327,Writing Model 49,Office Supplies,Writing,3,4035.2,0.0,12105.6,9646.89,93.94,2364.77,Medium,Online,0.1953,2458.71
+ORD10451,INV20451,2023-03-08,2023,3,Mar,10,Wednesday,C1468,Customer 62,Central,India,P894,Supplement Model 12,Pharmaceuticals,Supplement,4,2631.17,0.2,8419.74,6004.73,43.4,2371.61,Medium,Retail,0.2817,2415.01
+ORD10452,INV20452,2023-01-25,2023,1,Jan,4,Wednesday,C1882,Customer 133,South,Sri Lanka,P470,Laptops Model 40,Electronics,Laptops,4,4481.96,0.05,17031.45,13444.78,80.86,3505.81,Medium,Online,0.2058,3586.67
+ORD10453,INV20453,2025-08-23,2025,8,Aug,34,Saturday,C1215,Customer 215,Central,India,P610,Paper Model 28,Office Supplies,Paper,4,2240.6,0.1,8066.16,6675.17,94.27,1296.72,Low,Online,0.1608,1390.99
+ORD10454,INV20454,2025-07-12,2025,7,Jul,28,Saturday,C1833,Customer 52,South,Maldives,P802,Storage Model 15,Furniture,Storage,2,2247.4,0.1,4045.32,2501.69,37.09,1506.54,High,Retail,0.3724,1543.63
+ORD10455,INV20455,2025-02-19,2025,2,Feb,8,Wednesday,C1180,Customer 216,South,India,P925,Tables Model 1,Furniture,Tables,1,2480.92,0.15,2108.78,2054.53,19.49,34.76,Low,Distributor,0.0165,54.25
+ORD10456,INV20456,2024-10-08,2024,10,Oct,41,Tuesday,C1048,Customer 204,West,UAE,P979,Binders Model 37,Office Supplies,Binders,4,844.29,0.0,3377.16,1928.86,26.71,1421.59,Medium,Online,0.4209,1448.3
+ORD10457,INV20457,2024-06-04,2024,6,Jun,23,Tuesday,C1266,Customer 185,West,Oman,P862,Laptops Model 22,Electronics,Laptops,4,1481.48,0.1,5333.33,3810.02,32.5,1490.81,Medium,Distributor,0.2795,1523.31
+ORD10458,INV20458,2024-06-11,2024,6,Jun,24,Tuesday,C1986,Customer 311,East,India,P459,OTC Model 44,Pharmaceuticals,OTC,3,4151.35,0.05,11831.35,9798.7,37.7,1994.95,Medium,Retail,0.1686,2032.65
+ORD10459,INV20459,2023-12-24,2023,12,Dec,51,Sunday,C1793,Customer 378,East,Bangladesh,P622,Binders Model 32,Office Supplies,Binders,5,4387.78,0.15,18648.06,12741.46,45.35,5861.25,High,Online,0.3143,5906.6
+ORD10460,INV20460,2024-08-09,2024,8,Aug,32,Friday,C1431,Customer 324,West,Oman,P755,Chairs Model 22,Furniture,Chairs,3,3400.86,0.2,8162.06,8176.07,87.29,-101.3,Medium,Retail,-0.0124,-14.01
+ORD10461,INV20461,2023-05-27,2023,5,May,21,Saturday,C1668,Customer 150,North,India,P421,Paper Model 21,Office Supplies,Paper,3,3384.54,0.1,9138.26,6130.51,72.46,2935.29,Medium,Online,0.3212,3007.75
+ORD10462,INV20462,2025-06-30,2025,6,Jun,27,Monday,C1874,Customer 12,East,Myanmar,P271,Prescription Model 12,Pharmaceuticals,Prescription,1,868.16,0.05,824.75,478.01,74.69,272.05,Medium,Retail,0.3299,346.74
+ORD10463,INV20463,2023-06-13,2023,6,Jun,24,Tuesday,C1959,Customer 243,South,India,P197,OTC Model 5,Pharmaceuticals,OTC,3,144.69,0.2,347.26,260.32,90.18,-3.24,Low,Retail,-0.0093,86.94
+ORD10464,INV20464,2023-06-20,2023,6,Jun,25,Tuesday,C1316,Customer 118,North,Nepal,P770,Chairs Model 25,Furniture,Chairs,2,1150.69,0.05,2186.31,1624.24,64.7,497.37,Medium,Online,0.2275,562.07
+ORD10465,INV20465,2023-09-16,2023,9,Sep,37,Saturday,C1365,Customer 167,South,Maldives,P135,Chairs Model 43,Furniture,Chairs,1,1985.61,0.15,1687.77,1231.6,29.76,426.41,Medium,Distributor,0.2526,456.17
+ORD10466,INV20466,2024-07-11,2024,7,Jul,28,Thursday,C1605,Customer 306,Central,India,P652,Storage Model 12,Furniture,Storage,5,3497.33,0.15,14863.65,13301.11,25.45,1537.09,Medium,Retail,0.1034,1562.54
+ORD10467,INV20467,2025-06-09,2025,6,Jun,24,Monday,C1824,Customer 46,Central,India,P652,Writing Model 15,Office Supplies,Writing,5,3047.91,0.15,12953.62,8917.59,40.35,3995.68,Low,Online,0.3085,4036.03
+ORD10468,INV20468,2023-11-15,2023,11,Nov,46,Wednesday,C1868,Customer 70,East,India,P934,Accessories Model 49,Electronics,Accessories,2,1989.7,0.1,3581.46,3257.94,28.39,295.13,Low,Retail,0.0824,323.52
+ORD10469,INV20469,2025-10-04,2025,10,Oct,40,Saturday,C1611,Customer 119,West,UAE,P917,Laptops Model 19,Electronics,Laptops,2,3974.15,0.0,7948.3,4536.2,52.68,3359.42,Medium,Online,0.4227,3412.1
+ORD10470,INV20470,2025-06-14,2025,6,Jun,24,Saturday,C1399,Customer 194,West,India,P854,Storage Model 42,Furniture,Storage,4,3631.05,0.05,13797.99,10322.31,85.25,3390.43,Low,Online,0.2457,3475.68
+ORD10471,INV20471,2024-05-05,2024,5,May,18,Sunday,C1828,Customer 138,Central,India,P860,Binders Model 35,Office Supplies,Binders,5,958.04,0.15,4071.67,3863.26,89.43,118.98,Low,Online,0.0292,208.41
+ORD10472,INV20472,2023-10-07,2023,10,Oct,40,Saturday,C1717,Customer 319,East,India,P563,Supplement Model 18,Pharmaceuticals,Supplement,1,1969.74,0.15,1674.28,1558.19,91.16,24.93,Low,Online,0.0149,116.09
+ORD10473,INV20473,2023-04-12,2023,4,Apr,15,Wednesday,C1128,Customer 367,Central,India,P388,Chairs Model 18,Furniture,Chairs,1,4392.88,0.15,3733.95,2929.27,58.76,745.92,Medium,Online,0.1998,804.68
+ORD10474,INV20474,2023-11-05,2023,11,Nov,44,Sunday,C1804,Customer 256,North,Nepal,P530,Tables Model 20,Furniture,Tables,2,416.82,0.1,750.28,552.4,82.34,115.54,Medium,Retail,0.154,197.88
+ORD10475,INV20475,2024-11-07,2024,11,Nov,45,Thursday,C1073,Customer 279,North,India,P894,Laptops Model 26,Electronics,Laptops,4,1785.08,0.15,6069.27,4725.18,16.18,1327.91,Low,Distributor,0.2188,1344.09
+ORD10476,INV20476,2024-05-27,2024,5,May,22,Monday,C1789,Customer 227,West,India,P354,Accessories Model 25,Electronics,Accessories,5,1127.45,0.05,5355.39,4219.51,53.56,1082.32,Medium,Online,0.2021,1135.88
+ORD10477,INV20477,2025-08-01,2025,8,Aug,31,Friday,C1984,Customer 160,North,Bhutan,P498,Tables Model 44,Furniture,Tables,1,4032.25,0.1,3629.03,3152.59,59.36,417.08,Low,Retail,0.1149,476.44
+ORD10478,INV20478,2023-09-08,2023,9,Sep,36,Friday,C1884,Customer 342,East,Bangladesh,P469,Paper Model 4,Office Supplies,Paper,2,3920.7,0.05,7449.33,6081.19,82.27,1285.87,Critical,Online,0.1726,1368.14
+ORD10479,INV20479,2025-06-08,2025,6,Jun,23,Sunday,C1405,Customer 125,East,India,P698,Tables Model 8,Furniture,Tables,2,3121.35,0.0,6242.7,4823.58,25.29,1393.83,Critical,Retail,0.2233,1419.12
+ORD10480,INV20480,2025-08-31,2025,8,Aug,35,Sunday,C1511,Customer 47,Central,India,P354,Paper Model 11,Office Supplies,Paper,6,4451.18,0.2,21365.66,19326.37,66.92,1972.37,Low,Distributor,0.0923,2039.29
+ORD10481,INV20481,2023-05-03,2023,5,May,18,Wednesday,C1128,Customer 250,North,Nepal,P649,Storage Model 7,Furniture,Storage,3,1051.16,0.05,2995.81,2031.31,31.74,932.76,Low,Retail,0.3114,964.5
+ORD10482,INV20482,2024-12-12,2024,12,Dec,50,Thursday,C1366,Customer 371,West,Oman,P805,Chairs Model 25,Furniture,Chairs,3,980.21,0.05,2793.6,1685.25,72.65,1035.7,Low,Online,0.3707,1108.35
+ORD10483,INV20483,2025-06-15,2025,6,Jun,24,Sunday,C1556,Customer 179,Central,India,P680,OTC Model 12,Pharmaceuticals,OTC,4,3477.18,0.1,12517.85,8751.63,94.52,3671.7,Medium,Online,0.2933,3766.22
+ORD10484,INV20484,2023-11-25,2023,11,Nov,47,Saturday,C1554,Customer 188,North,Bhutan,P402,Tables Model 17,Furniture,Tables,3,3488.47,0.15,8895.6,6442.66,63.58,2389.36,Low,Retail,0.2686,2452.94
+ORD10485,INV20485,2025-02-15,2025,2,Feb,7,Saturday,C1738,Customer 33,South,India,P344,Binders Model 21,Office Supplies,Binders,5,487.51,0.2,1950.04,1851.77,43.15,55.12,High,Online,0.0283,98.27
+ORD10486,INV20486,2025-10-15,2025,10,Oct,42,Wednesday,C1329,Customer 57,Central,India,P519,Writing Model 42,Office Supplies,Writing,1,1334.9,0.0,1334.9,747.68,89.13,498.09,Medium,Online,0.3731,587.22
+ORD10487,INV20487,2023-09-23,2023,9,Sep,38,Saturday,C1101,Customer 17,South,India,P597,Chairs Model 13,Furniture,Chairs,2,3350.89,0.2,5361.42,4335.44,90.81,935.17,Medium,Online,0.1744,1025.98
+ORD10488,INV20488,2025-09-30,2025,9,Sep,40,Tuesday,C1735,Customer 37,Central,India,P326,Laptops Model 39,Electronics,Laptops,6,2904.68,0.0,17428.08,9937.09,18.54,7472.45,High,Online,0.4288,7490.99
+ORD10489,INV20489,2025-10-03,2025,10,Oct,40,Friday,C1960,Customer 213,North,Nepal,P671,Laptops Model 48,Electronics,Laptops,6,249.74,0.1,1348.6,1008.99,21.71,317.9,High,Online,0.2357,339.61
+ORD10490,INV20490,2024-06-28,2024,6,Jun,26,Friday,C1983,Customer 266,Central,India,P179,Laptops Model 14,Electronics,Laptops,1,1834.11,0.0,1834.11,1440.0,60.96,333.15,Low,Online,0.1816,394.11
+ORD10491,INV20491,2025-02-28,2025,2,Feb,9,Friday,C1571,Customer 384,South,India,P740,Storage Model 12,Furniture,Storage,2,121.19,0.2,193.9,188.89,66.14,-61.13,Medium,Online,-0.3153,5.01
+ORD10492,INV20492,2025-01-03,2025,1,Jan,1,Friday,C1563,Customer 206,West,Oman,P270,OTC Model 12,Pharmaceuticals,OTC,1,4193.74,0.2,3354.99,3086.0,60.71,208.28,Low,Online,0.0621,268.99
+ORD10493,INV20493,2025-06-26,2025,6,Jun,26,Thursday,C1648,Customer 221,East,Bangladesh,P522,Writing Model 49,Office Supplies,Writing,7,1976.69,0.1,12453.15,8560.33,63.72,3829.1,Medium,Retail,0.3075,3892.82
+ORD10494,INV20494,2024-03-14,2024,3,Mar,11,Thursday,C1982,Customer 204,West,Oman,P563,Writing Model 29,Office Supplies,Writing,4,4978.37,0.0,19913.48,16813.66,68.46,3031.36,Medium,Distributor,0.1522,3099.82
+ORD10495,INV20495,2023-02-03,2023,2,Feb,5,Friday,C1219,Customer 162,Central,India,P407,Paper Model 15,Office Supplies,Paper,3,2301.08,0.0,6903.24,5194.25,70.98,1638.01,High,Distributor,0.2373,1708.99
+ORD10496,INV20496,2024-07-19,2024,7,Jul,29,Friday,C1159,Customer 71,Central,India,P571,Phones Model 23,Electronics,Phones,3,3469.88,0.1,9368.68,7902.38,68.38,1397.92,Low,Retail,0.1492,1466.3
+ORD10497,INV20497,2024-04-22,2024,4,Apr,17,Monday,C1939,Customer 112,East,Bangladesh,P509,Accessories Model 37,Electronics,Accessories,1,3197.9,0.0,3197.9,2333.8,26.14,837.96,Medium,Retail,0.262,864.1
+ORD10498,INV20498,2023-12-21,2023,12,Dec,51,Thursday,C1038,Customer 375,West,Oman,P757,Accessories Model 20,Electronics,Accessories,4,144.77,0.2,463.26,453.84,64.87,-55.45,Low,Retail,-0.1197,9.42
+ORD10499,INV20499,2024-11-15,2024,11,Nov,46,Friday,C1232,Customer 383,East,Bangladesh,P990,OTC Model 50,Pharmaceuticals,OTC,6,810.77,0.2,3891.7,3511.2,34.93,345.57,High,Retail,0.0888,380.5
+ORD10500,INV20500,2025-02-22,2025,2,Feb,8,Saturday,C1153,Customer 168,North,Nepal,P652,Laptops Model 37,Electronics,Laptops,4,207.13,0.2,662.82,560.91,17.61,84.3,Medium,Online,0.1272,101.91
+ORD10501,INV20501,2025-03-15,2025,3,Mar,11,Saturday,C1805,Customer 202,West,Oman,P542,Phones Model 19,Electronics,Phones,7,3700.26,0.05,24606.73,16472.41,82.24,8052.08,Low,Online,0.3272,8134.32
+ORD10502,INV20502,2023-04-11,2023,4,Apr,15,Tuesday,C1444,Customer 397,Central,India,P508,Paper Model 33,Office Supplies,Paper,1,4491.96,0.05,4267.36,3309.63,97.6,860.13,High,Online,0.2016,957.73
+ORD10503,INV20503,2024-02-10,2024,2,Feb,6,Saturday,C1536,Customer 127,West,UAE,P730,Storage Model 48,Furniture,Storage,2,1709.63,0.05,3248.3,1949.34,97.78,1201.18,Low,Retail,0.3698,1298.96
+ORD10504,INV20504,2024-10-24,2024,10,Oct,43,Thursday,C1374,Customer 179,Central,India,P523,Accessories Model 28,Electronics,Accessories,4,401.62,0.05,1526.16,985.15,30.64,510.37,Low,Retail,0.3344,541.01
+ORD10505,INV20505,2023-02-19,2023,2,Feb,7,Sunday,C1638,Customer 75,East,India,P941,Binders Model 29,Office Supplies,Binders,2,879.08,0.15,1494.44,1044.67,97.58,352.19,Low,Retail,0.2357,449.77
+ORD10506,INV20506,2024-02-13,2024,2,Feb,7,Tuesday,C1248,Customer 318,East,India,P857,Phones Model 4,Electronics,Phones,5,1531.95,0.05,7276.76,4747.14,21.67,2507.95,High,Retail,0.3447,2529.62
+ORD10507,INV20507,2023-01-29,2023,1,Jan,4,Sunday,C1023,Customer 170,East,Myanmar,P560,Laptops Model 31,Electronics,Laptops,3,1092.01,0.05,3112.23,2596.93,23.22,492.08,Medium,Online,0.1581,515.3
+ORD10508,INV20508,2024-06-13,2024,6,Jun,24,Thursday,C1018,Customer 193,Central,India,P815,Storage Model 43,Furniture,Storage,2,459.55,0.2,735.28,639.11,37.22,58.95,High,Retail,0.0802,96.17
+ORD10509,INV20509,2024-06-07,2024,6,Jun,23,Friday,C1632,Customer 139,South,India,P908,Paper Model 45,Office Supplies,Paper,3,2552.27,0.0,7656.81,4542.2,66.16,3048.45,Medium,Distributor,0.3981,3114.61
+ORD10510,INV20510,2023-05-17,2023,5,May,20,Wednesday,C1368,Customer 56,West,Oman,P972,Binders Model 43,Office Supplies,Binders,2,2324.94,0.0,4649.88,2984.94,84.01,1580.93,Low,Distributor,0.34,1664.94
+ORD10511,INV20511,2025-03-02,2025,3,Mar,9,Sunday,C1544,Customer 46,South,Sri Lanka,P596,Laptops Model 39,Electronics,Laptops,1,2319.24,0.05,2203.28,1780.02,61.69,361.57,Low,Distributor,0.1641,423.26
+ORD10512,INV20512,2023-02-14,2023,2,Feb,7,Tuesday,C1762,Customer 81,North,India,P601,Writing Model 26,Office Supplies,Writing,8,1016.07,0.0,8128.56,5664.12,76.75,2387.69,Low,Online,0.2937,2464.44
+ORD10513,INV20513,2024-09-11,2024,9,Sep,37,Wednesday,C1899,Customer 199,South,Maldives,P740,Paper Model 17,Office Supplies,Paper,5,1674.75,0.0,8373.75,5746.04,78.62,2549.09,High,Distributor,0.3044,2627.71
+ORD10514,INV20514,2024-04-06,2024,4,Apr,14,Saturday,C1747,Customer 196,South,Sri Lanka,P240,Supplement Model 6,Pharmaceuticals,Supplement,1,4759.65,0.2,3807.72,2868.39,61.1,878.23,Critical,Retail,0.2306,939.33
+ORD10515,INV20515,2024-04-10,2024,4,Apr,15,Wednesday,C1337,Customer 230,West,India,P419,Tables Model 39,Furniture,Tables,3,2785.68,0.2,6685.63,5529.45,69.55,1086.63,Low,Retail,0.1625,1156.18
+ORD10516,INV20516,2024-02-19,2024,2,Feb,8,Monday,C1671,Customer 290,South,Sri Lanka,P888,Tables Model 10,Furniture,Tables,2,1429.28,0.05,2715.63,1759.77,26.46,929.4,Low,Retail,0.3422,955.86
+ORD10517,INV20517,2023-08-31,2023,8,Aug,35,Thursday,C1326,Customer 212,South,Sri Lanka,P130,Storage Model 49,Furniture,Storage,5,1904.01,0.15,8092.04,7514.36,43.07,534.61,Low,Retail,0.0661,577.68
+ORD10518,INV20518,2024-07-14,2024,7,Jul,28,Sunday,C1780,Customer 314,South,India,P289,Phones Model 2,Electronics,Phones,1,4233.35,0.2,3386.68,3339.17,25.76,21.75,Low,Retail,0.0064,47.51
+ORD10519,INV20519,2024-04-17,2024,4,Apr,16,Wednesday,C1081,Customer 353,Central,India,P126,Storage Model 23,Furniture,Storage,2,4376.66,0.15,7440.32,5469.96,33.69,1936.67,Low,Retail,0.2603,1970.36
+ORD10520,INV20520,2025-08-18,2025,8,Aug,34,Monday,C1167,Customer 99,East,India,P585,Prescription Model 9,Pharmaceuticals,Prescription,1,4359.81,0.05,4141.82,3434.56,66.46,640.8,Low,Retail,0.1547,707.26
+ORD10521,INV20521,2023-01-31,2023,1,Jan,5,Tuesday,C1775,Customer 105,East,Bangladesh,P787,Storage Model 13,Furniture,Storage,3,514.19,0.0,1542.57,1073.38,92.87,376.32,Low,Distributor,0.244,469.19
+ORD10522,INV20522,2025-06-18,2025,6,Jun,25,Wednesday,C1414,Customer 398,Central,India,P352,Writing Model 28,Office Supplies,Writing,1,1492.73,0.0,1492.73,913.94,31.43,547.36,Medium,Retail,0.3667,578.79
+ORD10523,INV20523,2024-10-02,2024,10,Oct,40,Wednesday,C1467,Customer 22,West,Oman,P211,Accessories Model 29,Electronics,Accessories,4,2461.96,0.05,9355.45,6686.64,63.72,2605.09,Medium,Online,0.2785,2668.81
+ORD10524,INV20524,2023-03-22,2023,3,Mar,12,Wednesday,C1407,Customer 156,Central,India,P398,Phones Model 29,Electronics,Phones,4,200.8,0.1,722.88,491.02,40.64,191.22,Medium,Online,0.2645,231.86
+ORD10525,INV20525,2023-04-22,2023,4,Apr,16,Saturday,C1739,Customer 257,Central,India,P562,Supplement Model 6,Pharmaceuticals,Supplement,5,222.81,0.0,1114.05,796.93,49.44,267.68,Low,Retail,0.2403,317.12
+ORD10526,INV20526,2023-10-05,2023,10,Oct,40,Thursday,C1464,Customer 303,West,UAE,P125,Writing Model 12,Office Supplies,Writing,2,2272.74,0.05,4318.21,2823.85,14.47,1479.89,High,Online,0.3427,1494.36
+ORD10527,INV20527,2024-10-25,2024,10,Oct,43,Friday,C1460,Customer 325,South,Maldives,P216,Phones Model 46,Electronics,Phones,2,1441.2,0.1,2594.16,1735.35,44.18,814.63,Low,Retail,0.314,858.81
+ORD10528,INV20528,2023-11-24,2023,11,Nov,47,Friday,C1934,Customer 172,West,Oman,P886,OTC Model 11,Pharmaceuticals,OTC,3,3875.22,0.2,9300.53,7220.46,70.97,2009.1,High,Distributor,0.216,2080.07
+ORD10529,INV20529,2023-11-29,2023,11,Nov,48,Wednesday,C1747,Customer 394,South,India,P415,Laptops Model 20,Electronics,Laptops,3,144.82,0.15,369.29,346.72,57.23,-34.66,Low,Online,-0.0939,22.57
+ORD10530,INV20530,2023-09-27,2023,9,Sep,39,Wednesday,C1875,Customer 256,South,India,P569,Paper Model 32,Office Supplies,Paper,3,4809.39,0.2,11542.54,10826.33,93.99,622.22,High,Retail,0.0539,716.21
+ORD10531,INV20531,2025-10-07,2025,10,Oct,41,Tuesday,C1081,Customer 308,South,India,P519,Prescription Model 29,Pharmaceuticals,Prescription,3,4248.14,0.2,10195.54,10630.74,89.64,-524.84,Low,Distributor,-0.0515,-435.2
+ORD10532,INV20532,2024-07-23,2024,7,Jul,30,Tuesday,C1668,Customer 179,Central,India,P251,Phones Model 4,Electronics,Phones,4,3594.45,0.0,14377.8,10954.07,66.04,3357.69,Low,Online,0.2335,3423.73
+ORD10533,INV20533,2024-09-03,2024,9,Sep,36,Tuesday,C1165,Customer 345,East,India,P526,Phones Model 12,Electronics,Phones,3,2241.85,0.1,6052.99,4225.76,40.9,1786.33,Medium,Retail,0.2951,1827.23
+ORD10534,INV20534,2023-12-30,2023,12,Dec,52,Saturday,C1306,Customer 166,West,Oman,P195,Paper Model 50,Office Supplies,Paper,5,507.18,0.1,2282.31,1518.59,63.57,700.15,High,Retail,0.3068,763.72
+ORD10535,INV20535,2025-05-25,2025,5,May,21,Sunday,C1711,Customer 141,Central,India,P237,Writing Model 8,Office Supplies,Writing,3,1270.96,0.1,3431.59,2635.8,69.57,726.22,Medium,Retail,0.2116,795.79
+ORD10536,INV20536,2024-03-04,2024,3,Mar,10,Monday,C1541,Customer 45,Central,India,P847,Accessories Model 41,Electronics,Accessories,6,84.05,0.15,428.65,309.51,69.72,49.42,Medium,Retail,0.1153,119.14
+ORD10537,INV20537,2024-08-11,2024,8,Aug,32,Sunday,C1638,Customer 182,West,Oman,P638,Writing Model 37,Office Supplies,Writing,5,3470.73,0.05,16485.97,10958.66,27.15,5500.16,Medium,Online,0.3336,5527.31
+ORD10538,INV20538,2025-10-16,2025,10,Oct,42,Thursday,C1001,Customer 61,West,India,P397,Storage Model 13,Furniture,Storage,2,4163.2,0.0,8326.4,4879.0,76.14,3371.26,Medium,Retail,0.4049,3447.4
+ORD10539,INV20539,2024-02-29,2024,2,Feb,9,Thursday,C1573,Customer 327,Central,India,P441,OTC Model 23,Pharmaceuticals,OTC,3,3000.61,0.05,8551.74,6122.62,24.8,2404.32,Low,Online,0.2811,2429.12
+ORD10540,INV20540,2024-07-30,2024,7,Jul,31,Tuesday,C1331,Customer 393,East,India,P618,Writing Model 36,Office Supplies,Writing,3,3678.35,0.0,11035.05,8249.79,93.84,2691.42,Low,Online,0.2439,2785.26
+ORD10541,INV20541,2025-03-22,2025,3,Mar,12,Saturday,C1944,Customer 345,Central,India,P438,Chairs Model 22,Furniture,Chairs,5,103.51,0.15,439.92,412.99,82.09,-55.16,High,Retail,-0.1254,26.93
+ORD10542,INV20542,2023-10-06,2023,10,Oct,40,Friday,C1802,Customer 212,West,India,P443,Supplement Model 30,Pharmaceuticals,Supplement,2,637.61,0.0,1275.22,1076.5,29.32,169.4,High,Online,0.1328,198.72
+ORD10543,INV20543,2024-10-08,2024,10,Oct,41,Tuesday,C1818,Customer 182,Central,India,P801,Storage Model 22,Furniture,Storage,1,3707.39,0.0,3707.39,2075.15,69.28,1562.96,Critical,Online,0.4216,1632.24
+ORD10544,INV20544,2023-03-05,2023,3,Mar,9,Sunday,C1191,Customer 305,East,Bangladesh,P720,Storage Model 25,Furniture,Storage,2,2861.47,0.0,5722.94,3656.43,94.45,1972.06,High,Retail,0.3446,2066.51
+ORD10545,INV20545,2024-10-06,2024,10,Oct,40,Sunday,C1380,Customer 232,North,Nepal,P608,OTC Model 16,Pharmaceuticals,OTC,5,299.23,0.1,1346.54,846.57,72.28,427.69,Low,Online,0.3176,499.97
+ORD10546,INV20546,2023-08-18,2023,8,Aug,33,Friday,C1025,Customer 248,East,India,P554,Chairs Model 33,Furniture,Chairs,3,2909.28,0.2,6982.27,5740.85,84.12,1157.3,Low,Online,0.1657,1241.42
+ORD10547,INV20547,2025-09-17,2025,9,Sep,38,Wednesday,C1841,Customer 265,Central,India,P887,Paper Model 7,Office Supplies,Paper,4,1674.49,0.05,6363.06,4103.96,17.62,2241.48,Low,Online,0.3523,2259.1
+ORD10548,INV20548,2025-03-04,2025,3,Mar,10,Tuesday,C1868,Customer 305,Central,India,P145,Laptops Model 44,Electronics,Laptops,3,1935.91,0.0,5807.73,4602.75,84.13,1120.85,Low,Distributor,0.193,1204.98
+ORD10549,INV20549,2023-07-31,2023,7,Jul,31,Monday,C1654,Customer 108,Central,India,P876,Accessories Model 20,Electronics,Accessories,4,4672.06,0.1,16819.42,14112.61,57.84,2648.97,Low,Online,0.1575,2706.81
+ORD10550,INV20550,2024-10-15,2024,10,Oct,42,Tuesday,C1280,Customer 59,West,Oman,P252,Laptops Model 11,Electronics,Laptops,1,2404.2,0.0,2404.2,1616.4,24.51,763.29,Critical,Retail,0.3175,787.8
+ORD10551,INV20551,2023-07-29,2023,7,Jul,30,Saturday,C1144,Customer 361,South,Maldives,P426,Binders Model 18,Office Supplies,Binders,4,2117.45,0.1,7622.82,4954.05,65.15,2603.62,Medium,Online,0.3416,2668.77
+ORD10552,INV20552,2024-09-29,2024,9,Sep,39,Sunday,C1482,Customer 346,Central,India,P233,OTC Model 2,Pharmaceuticals,OTC,2,1805.6,0.0,3611.2,2582.73,46.29,982.18,Low,Online,0.272,1028.47
+ORD10553,INV20553,2025-05-23,2025,5,May,21,Friday,C1340,Customer 102,West,India,P464,Supplement Model 20,Pharmaceuticals,Supplement,4,574.08,0.2,1837.06,1507.46,47.19,282.41,Low,Distributor,0.1537,329.6
+ORD10554,INV20554,2025-08-11,2025,8,Aug,33,Monday,C1466,Customer 159,Central,India,P579,Accessories Model 7,Electronics,Accessories,2,2006.53,0.15,3411.1,2426.03,24.11,960.96,Medium,Distributor,0.2817,985.07
+ORD10555,INV20555,2023-10-22,2023,10,Oct,42,Sunday,C1939,Customer 341,Central,India,P287,Writing Model 45,Office Supplies,Writing,1,2124.96,0.1,1912.46,1275.96,89.14,547.36,High,Distributor,0.2862,636.5
+ORD10556,INV20556,2025-07-17,2025,7,Jul,29,Thursday,C1490,Customer 237,West,India,P215,Laptops Model 23,Electronics,Laptops,3,4792.68,0.05,13659.14,8858.8,89.76,4710.58,Low,Online,0.3449,4800.34
+ORD10557,INV20557,2023-09-18,2023,9,Sep,38,Monday,C1333,Customer 285,Central,India,P915,Supplement Model 7,Pharmaceuticals,Supplement,7,2170.87,0.0,15196.09,11692.62,84.2,3419.27,High,Retail,0.225,3503.47
+ORD10558,INV20558,2025-03-31,2025,3,Mar,14,Monday,C1162,Customer 247,Central,India,P349,Storage Model 36,Furniture,Storage,4,1926.25,0.15,6549.25,6352.91,32.61,163.73,Low,Online,0.025,196.34
+ORD10559,INV20559,2025-06-01,2025,6,Jun,22,Sunday,C1177,Customer 340,West,Oman,P810,Binders Model 16,Office Supplies,Binders,4,1659.8,0.0,6639.2,3729.78,34.48,2874.94,Medium,Retail,0.433,2909.42
+ORD10560,INV20560,2025-09-23,2025,9,Sep,39,Tuesday,C1841,Customer 228,North,Bhutan,P668,Prescription Model 7,Pharmaceuticals,Prescription,1,4892.86,0.05,4648.22,4108.65,45.56,494.01,Low,Online,0.1063,539.57
+ORD10561,INV20561,2023-08-11,2023,8,Aug,32,Friday,C1062,Customer 47,Central,India,P760,Writing Model 43,Office Supplies,Writing,6,1366.35,0.05,7788.19,6944.61,12.32,831.26,High,Distributor,0.1067,843.58
+ORD10562,INV20562,2023-01-01,2023,1,Jan,52,Sunday,C1399,Customer 316,South,Maldives,P644,Tables Model 19,Furniture,Tables,3,4695.72,0.2,11269.73,8513.65,66.05,2690.03,Medium,Online,0.2387,2756.08
+ORD10563,INV20563,2024-10-10,2024,10,Oct,41,Thursday,C1091,Customer 299,East,Myanmar,P835,Writing Model 23,Office Supplies,Writing,2,2115.11,0.0,4230.22,2529.96,25.38,1674.88,Medium,Retail,0.3959,1700.26
+ORD10564,INV20564,2023-09-19,2023,9,Sep,38,Tuesday,C1720,Customer 287,East,India,P154,Binders Model 1,Office Supplies,Binders,3,1995.86,0.1,5388.82,3473.24,11.49,1904.09,Low,Online,0.3533,1915.58
+ORD10565,INV20565,2023-03-05,2023,3,Mar,9,Sunday,C1391,Customer 208,South,Sri Lanka,P425,Supplement Model 46,Pharmaceuticals,Supplement,3,167.35,0.15,426.74,401.88,97.72,-72.86,Medium,Online,-0.1707,24.86
+ORD10566,INV20566,2023-12-22,2023,12,Dec,51,Friday,C1860,Customer 214,West,India,P493,Storage Model 24,Furniture,Storage,1,4348.63,0.05,4131.2,3600.4,47.77,483.03,Low,Distributor,0.1169,530.8
+ORD10567,INV20567,2023-09-15,2023,9,Sep,37,Friday,C1738,Customer 250,South,India,P116,Accessories Model 10,Electronics,Accessories,1,2891.05,0.15,2457.39,1930.84,12.58,513.97,Critical,Online,0.2092,526.55
+ORD10568,INV20568,2023-10-09,2023,10,Oct,41,Monday,C1521,Customer 218,West,UAE,P284,Supplement Model 30,Pharmaceuticals,Supplement,1,3947.49,0.2,3157.99,2534.01,13.62,610.36,High,Online,0.1933,623.98
+ORD10569,INV20569,2024-04-07,2024,4,Apr,14,Sunday,C1242,Customer 365,South,Sri Lanka,P610,Accessories Model 47,Electronics,Accessories,4,3561.72,0.2,11397.5,8996.16,91.38,2309.96,Low,Distributor,0.2027,2401.34
+ORD10570,INV20570,2025-01-21,2025,1,Jan,4,Tuesday,C1594,Customer 247,North,India,P477,Supplement Model 8,Pharmaceuticals,Supplement,2,2159.3,0.0,4318.6,3453.62,82.51,782.47,Low,Retail,0.1812,864.98
+ORD10571,INV20571,2024-07-26,2024,7,Jul,30,Friday,C1251,Customer 242,West,Oman,P724,Accessories Model 6,Electronics,Accessories,2,4655.47,0.0,9310.94,5387.39,50.51,3873.04,Medium,Retail,0.416,3923.55
+ORD10572,INV20572,2024-10-01,2024,10,Oct,40,Tuesday,C1480,Customer 233,Central,India,P897,Binders Model 1,Office Supplies,Binders,2,1095.07,0.2,1752.11,1698.98,14.62,38.51,High,Retail,0.022,53.13
+ORD10573,INV20573,2024-11-09,2024,11,Nov,45,Saturday,C1711,Customer 306,West,UAE,P271,Writing Model 3,Office Supplies,Writing,3,2673.21,0.1,7217.67,4799.03,61.48,2357.16,Medium,Retail,0.3266,2418.64
+ORD10574,INV20574,2023-05-06,2023,5,May,18,Saturday,C1298,Customer 378,West,Oman,P152,Storage Model 43,Furniture,Storage,3,1377.46,0.2,3305.9,2720.44,46.76,538.7,Low,Online,0.163,585.46
+ORD10575,INV20575,2023-09-17,2023,9,Sep,37,Sunday,C1287,Customer 141,Central,India,P235,Writing Model 40,Office Supplies,Writing,1,221.63,0.1,199.47,147.95,72.74,-21.22,Low,Online,-0.1064,51.52
+ORD10576,INV20576,2023-12-24,2023,12,Dec,51,Sunday,C1267,Customer 359,Central,India,P927,Prescription Model 12,Pharmaceuticals,Prescription,2,4436.13,0.05,8428.65,7263.78,36.76,1128.11,Medium,Retail,0.1338,1164.87
+ORD10577,INV20577,2023-03-09,2023,3,Mar,10,Thursday,C1857,Customer 254,East,India,P941,Storage Model 10,Furniture,Storage,2,3378.3,0.15,5743.11,5390.55,70.58,281.98,High,Online,0.0491,352.56
+ORD10578,INV20578,2025-06-20,2025,6,Jun,25,Friday,C1773,Customer 60,South,India,P757,Paper Model 17,Office Supplies,Paper,3,1834.35,0.0,5503.05,4134.89,34.36,1333.8,Low,Online,0.2424,1368.16
+ORD10579,INV20579,2024-09-09,2024,9,Sep,37,Monday,C1399,Customer 243,West,Oman,P799,Tables Model 46,Furniture,Tables,2,4942.68,0.1,8896.82,8335.18,81.44,480.2,Low,Distributor,0.054,561.64
+ORD10580,INV20580,2023-01-25,2023,1,Jan,4,Wednesday,C1699,Customer 22,East,Bangladesh,P423,Supplement Model 34,Pharmaceuticals,Supplement,4,3115.98,0.0,12463.92,8392.67,48.47,4022.78,High,Retail,0.3228,4071.25
+ORD10581,INV20581,2025-06-03,2025,6,Jun,23,Tuesday,C1261,Customer 336,Central,India,P373,Writing Model 7,Office Supplies,Writing,3,4675.44,0.2,11221.06,10614.09,84.09,522.88,Low,Retail,0.0466,606.97
+ORD10582,INV20582,2024-05-10,2024,5,May,19,Friday,C1320,Customer 281,Central,India,P806,Binders Model 12,Office Supplies,Binders,2,4100.98,0.0,8201.96,4609.84,90.09,3502.03,Medium,Retail,0.427,3592.12
+ORD10583,INV20583,2023-01-25,2023,1,Jan,4,Wednesday,C1224,Customer 372,West,India,P556,Accessories Model 23,Electronics,Accessories,3,1302.48,0.1,3516.7,3163.73,19.26,333.71,Low,Online,0.0949,352.97
+ORD10584,INV20584,2023-07-08,2023,7,Jul,27,Saturday,C1725,Customer 62,North,Bhutan,P753,Storage Model 8,Furniture,Storage,4,3398.59,0.0,13594.36,9900.4,64.28,3629.68,High,Online,0.267,3693.96
+ORD10585,INV20585,2024-01-14,2024,1,Jan,2,Sunday,C1676,Customer 39,North,Bhutan,P401,Tables Model 30,Furniture,Tables,3,3854.48,0.15,9828.92,7144.84,72.31,2611.77,High,Online,0.2657,2684.08
+ORD10586,INV20586,2025-05-24,2025,5,May,21,Saturday,C1063,Customer 196,East,Bangladesh,P383,Chairs Model 50,Furniture,Chairs,3,346.72,0.15,884.14,612.96,64.54,206.64,Low,Online,0.2337,271.18
+ORD10587,INV20587,2024-06-26,2024,6,Jun,26,Wednesday,C1402,Customer 92,South,Sri Lanka,P305,Laptops Model 40,Electronics,Laptops,1,3684.05,0.15,3131.44,2403.46,53.07,674.91,Low,Retail,0.2155,727.98
+ORD10588,INV20588,2025-06-02,2025,6,Jun,23,Monday,C1105,Customer 18,South,Maldives,P832,Laptops Model 17,Electronics,Laptops,3,453.91,0.0,1361.73,854.59,12.51,494.63,Low,Retail,0.3632,507.14
+ORD10589,INV20589,2025-07-02,2025,7,Jul,27,Wednesday,C1955,Customer 20,North,Nepal,P755,Storage Model 1,Furniture,Storage,3,1514.86,0.15,3862.89,3404.56,96.88,361.45,Low,Retail,0.0936,458.33
+ORD10590,INV20590,2025-03-12,2025,3,Mar,11,Wednesday,C1864,Customer 373,Central,India,P546,Prescription Model 26,Pharmaceuticals,Prescription,1,2905.56,0.0,2905.56,2089.61,55.03,760.92,Medium,Online,0.2619,815.95
+ORD10591,INV20591,2025-09-14,2025,9,Sep,37,Sunday,C1410,Customer 29,North,Bhutan,P798,Writing Model 20,Office Supplies,Writing,1,3024.51,0.0,3024.51,1972.85,92.55,959.11,Low,Distributor,0.3171,1051.66
+ORD10592,INV20592,2024-11-27,2024,11,Nov,48,Wednesday,C1567,Customer 21,North,Nepal,P307,Binders Model 12,Office Supplies,Binders,2,1502.1,0.15,2553.57,2125.9,72.8,354.87,Medium,Online,0.139,427.67
+ORD10593,INV20593,2025-03-09,2025,3,Mar,10,Sunday,C1448,Customer 377,North,Bhutan,P186,Writing Model 41,Office Supplies,Writing,6,1396.18,0.05,7958.23,5154.98,69.57,2733.68,Low,Online,0.3435,2803.25
+ORD10594,INV20594,2024-05-03,2024,5,May,18,Friday,C1511,Customer 274,West,UAE,P758,Accessories Model 20,Electronics,Accessories,2,3657.45,0.15,6217.66,4733.17,69.86,1414.63,Critical,Online,0.2275,1484.49
+ORD10595,INV20595,2024-11-25,2024,11,Nov,48,Monday,C1826,Customer 335,North,Nepal,P221,Laptops Model 14,Electronics,Laptops,2,517.37,0.2,827.79,827.23,92.66,-92.1,Medium,Retail,-0.1113,0.56
+ORD10596,INV20596,2023-11-02,2023,11,Nov,44,Thursday,C1500,Customer 335,Central,India,P853,Phones Model 10,Electronics,Phones,2,3658.25,0.0,7316.5,5735.74,20.64,1560.12,Medium,Distributor,0.2132,1580.76
+ORD10597,INV20597,2023-04-04,2023,4,Apr,14,Tuesday,C1051,Customer 158,South,Maldives,P276,Chairs Model 41,Furniture,Chairs,1,3575.08,0.0,3575.08,2348.75,32.9,1193.43,Medium,Online,0.3338,1226.33
+ORD10598,INV20598,2023-05-11,2023,5,May,19,Thursday,C1225,Customer 33,North,India,P918,Supplement Model 40,Pharmaceuticals,Supplement,1,2724.48,0.05,2588.26,2194.15,96.19,297.92,Medium,Retail,0.1151,394.11
+ORD10599,INV20599,2025-04-03,2025,4,Apr,14,Thursday,C1782,Customer 24,East,India,P956,Tables Model 14,Furniture,Tables,2,2766.92,0.2,4427.07,3674.44,64.64,687.99,Low,Online,0.1554,752.63
+ORD10600,INV20600,2024-07-14,2024,7,Jul,28,Sunday,C1168,Customer 225,South,Sri Lanka,P478,Storage Model 36,Furniture,Storage,2,1608.85,0.05,3056.81,1863.03,25.92,1167.86,High,Online,0.3821,1193.78
